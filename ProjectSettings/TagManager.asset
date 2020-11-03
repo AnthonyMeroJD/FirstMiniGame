@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fondo
+  - frente
+  - centro
+  - Atacks
+  - Enemy
+  - EnemyAtacks
+  - Walls
+  - Movibles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - walls
+  - Enemy
+  - Atack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2588472561
+    locked: 0
+  - name: Floor
+    uniqueID: 2594260615
+    locked: 0
+  - name: Walls
+    uniqueID: 2337384505
+    locked: 0

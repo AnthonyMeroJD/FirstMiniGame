@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: d8500c3b9ba3cbe4cb21c8e1edf39aef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1619518315717661972
+    second: Brain Bomber_0
+  - first:
+      213: 7886752940055142668
+    second: Brain Bomber_1
+  - first:
+      213: 5486288206962447247
+    second: Brain Bomber_2
+  - first:
+      213: -1026570255008503807
+    second: Brain Bomber_3
+  - first:
+      213: -6937318163577685562
+    second: Brain Bomber_4
+  - first:
+      213: -4069764641650614757
+    second: Brain Bomber_5
+  - first:
+      213: -5487523497114767600
+    second: Brain Bomber_6
+  - first:
+      213: -8698349832170958555
+    second: Brain Bomber_7
+  - first:
+      213: -1785211879537339901
+    second: Brain Bomber_8
+  - first:
+      213: -8505136154864854734
+    second: Brain Bomber_9
+  - first:
+      213: 3945458548579317432
+    second: Brain Bomber_10
+  - first:
+      213: 5698778122237397653
+    second: Brain Bomber_11
+  - first:
+      213: -6741569783352276025
+    second: Brain Bomber_12
+  - first:
+      213: -1185067102259998527
+    second: Brain Bomber_13
+  - first:
+      213: 6586853511664424462
+    second: Brain Bomber_14
+  - first:
+      213: -1976023377759826918
+    second: Brain Bomber_15
+  - first:
+      213: 6555921459626608562
+    second: Brain Bomber_16
+  - first:
+      213: -3416868672204501793
+    second: Brain Bomber_17
+  - first:
+      213: 8917630210753735309
+    second: Brain Bomber_18
+  - first:
+      213: -2038118693934659592
+    second: Brain Bomber_19
+  - first:
+      213: -7826444173000831458
+    second: Brain Bomber_20
+  - first:
+      213: -5482634803377063413
+    second: Brain Bomber_21
+  - first:
+      213: 6396946711402926193
+    second: Brain Bomber_22
+  - first:
+      213: 4581980242482816445
+    second: Brain Bomber_23
+  - first:
+      213: 3727300498499982463
+    second: Brain Bomber_24
+  - first:
+      213: 835908880598229265
+    second: Brain Bomber_25
+  - first:
+      213: -7112382308161438330
+    second: Brain Bomber_26
+  - first:
+      213: 2326694829648616356
+    second: Brain Bomber_27
+  - first:
+      213: -7773692628734375034
+    second: Brain Bomber_28
+  - first:
+      213: -1365968384042102666
+    second: Brain Bomber_29
+  - first:
+      213: -1388485865318728141
+    second: Brain Bomber_30
+  - first:
+      213: -3650032014037513528
+    second: Brain Bomber_31
+  - first:
+      213: -2345562216423375423
+    second: Brain Bomber_32
+  - first:
+      213: -336174480401030869
+    second: Brain Bomber_33
+  - first:
+      213: 3397171431584213228
+    second: Brain Bomber_34
+  - first:
+      213: -5424993524172986852
+    second: Brain Bomber_35
+  - first:
+      213: 7464664228181884262
+    second: Brain Bomber_36
+  - first:
+      213: -382870444155401728
+    second: Brain Bomber_37
+  - first:
+      213: 8910591510305612185
+    second: Brain Bomber_38
+  - first:
+      213: -3014798770768306059
+    second: Brain Bomber_39
+  - first:
+      213: 7653685628671804626
+    second: Brain Bomber_40
+  - first:
+      213: -5220745693228951679
+    second: Brain Bomber_41
+  - first:
+      213: -858684852684991914
+    second: Brain Bomber_42
+  - first:
+      213: -7182856484529118578
+    second: Brain Bomber_43
+  - first:
+      213: -8760724415970073350
+    second: Brain Bomber_44
+  - first:
+      213: 8654129853441534996
+    second: Brain Bomber_45
+  - first:
+      213: -8427021911892318408
+    second: Brain Bomber_46
+  - first:
+      213: 2541906041716248437
+    second: Brain Bomber_47
+  - first:
+      213: 5729037698341525985
+    second: Brain Bomber_48
+  - first:
+      213: 6676676870024817076
+    second: Brain Bomber_49
+  - first:
+      213: 4470077224225293464
+    second: Brain Bomber_50
+  - first:
+      213: 5597838692608665887
+    second: Brain Bomber_51
+  - first:
+      213: -4941164933255791618
+    second: Brain Bomber_52
+  - first:
+      213: 5155928015993754952
+    second: Brain Bomber_53
+  - first:
+      213: 1619998322233792173
+    second: Brain Bomber_54
+  - first:
+      213: -5246519583247822954
+    second: Brain Bomber_55
+  - first:
+      213: -2657847988359358451
+    second: Brain Bomber_56
+  - first:
+      213: 1952435245572245523
+    second: Brain Bomber_57
+  - first:
+      213: -1004732611427002507
+    second: Brain Bomber_58
+  - first:
+      213: -2208598148327893555
+    second: Brain Bomber_59
+  - first:
+      213: 6180305489978142170
+    second: Brain Bomber_60
+  - first:
+      213: -7201557706099566304
+    second: Brain Bomber_61
+  - first:
+      213: 488422916099919406
+    second: Brain Bomber_62
+  - first:
+      213: 5602369860600838696
+    second: Brain Bomber_63
+  - first:
+      213: 5129977593174588653
+    second: Brain Bomber_64
+  - first:
+      213: 8345140184661049480
+    second: Brain Bomber_65
+  - first:
+      213: -4240111247096045700
+    second: Brain Bomber_66
+  - first:
+      213: 3658576423138557479
+    second: Brain Bomber_67
+  - first:
+      213: 6921637503913100761
+    second: Brain Bomber_68
+  - first:
+      213: -1282818543515749094
+    second: Brain Bomber_69
+  - first:
+      213: 3275637968751839250
+    second: Brain Bomber_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.49917334, y: 0.50000006}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brain Bomber_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae8642ca05689e0800000000000000
+      internalID: -1619518315717661972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 31
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01214f5300637d60800000000000000
+      internalID: 7886752940055142668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83596f7e06332c40800000000000000
+      internalID: 5486288206962447247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 31
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086c35cac3e0c1f0800000000000000
+      internalID: -1026570255008503807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9361eb2e1b9bf90800000000000000
+      internalID: -6937318163577685562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e58f6fe9a4587c0800000000000000
+      internalID: -4069764641650614757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 21
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f6dd9147668d3b0800000000000000
+      internalID: -5487523497114767600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 31
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5211f59d9e0494780800000000000000
+      internalID: -8698349832170958555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029e570147a937e0800000000000000
+      internalID: -1785211879537339901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 31
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d2f2babfa7f980800000000000000
+      internalID: -8505136154864854734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6391065a511c630800000000000000
+      internalID: 3945458548579317432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 31
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a4abd3280261f40800000000000000
+      internalID: 5698778122237397653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 31
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc7ca10022172a0800000000000000
+      internalID: -6741569783352276025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c09acecfbbcd8fe0800000000000000
+      internalID: -1185067102259998527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 31
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06da46ce54396b50800000000000000
+      internalID: 6586853511664424462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c02c41531c394e0800000000000000
+      internalID: -1976023377759826918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 31
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7876035df4bfa50800000000000000
+      internalID: 6555921459626608562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc0715cb08d490d0800000000000000
+      internalID: -3416868672204501793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa446dd69c1cb70800000000000000
+      internalID: 8917630210753735309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f701f5a8d527b3e0800000000000000
+      internalID: -2038118693934659592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0cddad72e26390800000000000000
+      internalID: -7826444173000831458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a348fc1b4c9e3b0800000000000000
+      internalID: -5482634803377063413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170564c342586c850800000000000000
+      internalID: 6396946711402926193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5eb0111c6769f30800000000000000
+      internalID: 4581980242482816445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745a382e080ab330800000000000000
+      internalID: 3727300498499982463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111e6a4b2beb99b00800000000000000
+      internalID: 835908880598229265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 11
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db34749fdbb4d90800000000000000
+      internalID: -7112382308161438330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 13
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab91f5ce941a4020800000000000000
+      internalID: 2326694829648616356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 14
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b073fadbb4e1490800000000000000
+      internalID: -7773692628734375034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67091ceedfa1b0de0800000000000000
+      internalID: -1365968384042102666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eb606467b1bbce0800000000000000
+      internalID: -1388485865318728141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8d70d83b785dc0800000000000000
+      internalID: -3650032014037513528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb18b6793e27fd0800000000000000
+      internalID: -2345562216423375423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 21
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b212529571ba55bf0800000000000000
+      internalID: -336174480401030869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8aea40b6d252f20800000000000000
+      internalID: 3397171431584213228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 21
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16efd2f12d86b4b0800000000000000
+      internalID: -5424993524172986852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66db858e090d79760800000000000000
+      internalID: 7464664228181884262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a0f1d0c55cfaaf0800000000000000
+      internalID: -382870444155401728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 9
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a06ea4c7c8ab70800000000000000
+      internalID: 8910591510305612185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 21
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5702217bd784926d0800000000000000
+      internalID: -3014798770768306059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ce7f378a573a60800000000000000
+      internalID: 7653685628671804626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1871074e37f2c87b0800000000000000
+      internalID: -5220745693228951679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_42
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 11
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652d3bd0da65514f0800000000000000
+      internalID: -858684852684991914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 11
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e70f651e515c90800000000000000
+      internalID: -7182856484529118578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 21
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4230b5f87ab6680800000000000000
+      internalID: -8760724415970073350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_45
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 9
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6c7a0045a91870800000000000000
+      internalID: 8654129853441534996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a93b28343d0b80800000000000000
+      internalID: -8427021911892318408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8aecc31aa64320800000000000000
+      internalID: 2541906041716248437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_48
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d772de61a18f40800000000000000
+      internalID: 5729037698341525985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b965ed1d3258ac50800000000000000
+      internalID: 6676676870024817076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 13
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894438c4d87e80e30800000000000000
+      internalID: 4470077224225293464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1960eed1a48fad40800000000000000
+      internalID: 5597838692608665887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbfba03ca47d6bb0800000000000000
+      internalID: -4941164933255791618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845dac896398d8740800000000000000
+      internalID: 5155928015993754952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6597514e36b7610800000000000000
+      internalID: 1619998322233792173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f026d7c3e9037b0800000000000000
+      internalID: -5246519583247822954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 9
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d089ad2265d6d1bd0800000000000000
+      internalID: -2657847988359358451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 11
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318494be281781b10800000000000000
+      internalID: 1952435245572245523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57794a163097e02f0800000000000000
+      internalID: -1004732611427002507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5945d8fab7951e0800000000000000
+      internalID: -2208598148327893555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 11
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add2b85391bd4c550800000000000000
+      internalID: 6180305489978142170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_61
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029557afb6dee0c90800000000000000
+      internalID: -7201557706099566304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ecb4eed0a37c600800000000000000
+      internalID: 488422916099919406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab771a4bd9fbd40800000000000000
+      internalID: 5602369860600838696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec72e2f077513740800000000000000
+      internalID: 5129977593174588653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804f8398c4efc370800000000000000
+      internalID: 8345140184661049480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f93bc29491825c0800000000000000
+      internalID: -4240111247096045700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72efac47fdfd5c230800000000000000
+      internalID: 3658576423138557479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d503cc23a89e0060800000000000000
+      internalID: 6921637503913100761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b572d453823ee0800000000000000
+      internalID: -1282818543515749094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brain Bomber_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2184c34a067657d20800000000000000
+      internalID: 3275637968751839250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

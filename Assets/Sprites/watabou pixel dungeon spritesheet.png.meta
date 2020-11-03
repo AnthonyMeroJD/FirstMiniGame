@@ -1,0 +1,5389 @@
+fileFormatVersion: 2
+guid: fc6ea296c731a304c8c9b1f72a797cdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7735077600201305179
+    second: watabou pixel dungeon spritesheet_0
+  - first:
+      213: -8344925796606872635
+    second: watabou pixel dungeon spritesheet_1
+  - first:
+      213: 5587092395506636348
+    second: watabou pixel dungeon spritesheet_2
+  - first:
+      213: -7155646711611446955
+    second: watabou pixel dungeon spritesheet_3
+  - first:
+      213: 5592302674601120390
+    second: watabou pixel dungeon spritesheet_4
+  - first:
+      213: -3897873936483035373
+    second: watabou pixel dungeon spritesheet_5
+  - first:
+      213: 1993929279108408537
+    second: watabou pixel dungeon spritesheet_6
+  - first:
+      213: 3771562438763390287
+    second: watabou pixel dungeon spritesheet_7
+  - first:
+      213: 7666487261534607774
+    second: watabou pixel dungeon spritesheet_8
+  - first:
+      213: -8577924269181460392
+    second: watabou pixel dungeon spritesheet_9
+  - first:
+      213: -408824299045391674
+    second: watabou pixel dungeon spritesheet_10
+  - first:
+      213: 1597453736206780331
+    second: watabou pixel dungeon spritesheet_11
+  - first:
+      213: 2097824268199928354
+    second: watabou pixel dungeon spritesheet_12
+  - first:
+      213: 481659756518395629
+    second: watabou pixel dungeon spritesheet_13
+  - first:
+      213: -3559596481514502722
+    second: watabou pixel dungeon spritesheet_14
+  - first:
+      213: 4744384708242193193
+    second: watabou pixel dungeon spritesheet_15
+  - first:
+      213: -6915550880425059185
+    second: watabou pixel dungeon spritesheet_16
+  - first:
+      213: 4172160421537126519
+    second: watabou pixel dungeon spritesheet_17
+  - first:
+      213: 775717017052293711
+    second: watabou pixel dungeon spritesheet_18
+  - first:
+      213: -7038166352234184625
+    second: watabou pixel dungeon spritesheet_19
+  - first:
+      213: -6452316140439679230
+    second: watabou pixel dungeon spritesheet_20
+  - first:
+      213: 4571599120847464554
+    second: watabou pixel dungeon spritesheet_21
+  - first:
+      213: 6226461477472169689
+    second: watabou pixel dungeon spritesheet_22
+  - first:
+      213: 670231547949474940
+    second: watabou pixel dungeon spritesheet_23
+  - first:
+      213: -7734756471891437166
+    second: watabou pixel dungeon spritesheet_24
+  - first:
+      213: -6171498674264557564
+    second: watabou pixel dungeon spritesheet_25
+  - first:
+      213: 4839403972489777907
+    second: watabou pixel dungeon spritesheet_26
+  - first:
+      213: -8929912470105168217
+    second: watabou pixel dungeon spritesheet_27
+  - first:
+      213: 3967255991904259680
+    second: watabou pixel dungeon spritesheet_28
+  - first:
+      213: 6095447798177818417
+    second: watabou pixel dungeon spritesheet_29
+  - first:
+      213: 9171035515100006707
+    second: watabou pixel dungeon spritesheet_30
+  - first:
+      213: -6117857049304028183
+    second: watabou pixel dungeon spritesheet_31
+  - first:
+      213: -1077842138898797437
+    second: watabou pixel dungeon spritesheet_32
+  - first:
+      213: 4573136823806375796
+    second: watabou pixel dungeon spritesheet_33
+  - first:
+      213: -722281327806231765
+    second: watabou pixel dungeon spritesheet_34
+  - first:
+      213: -5878190288890320689
+    second: watabou pixel dungeon spritesheet_35
+  - first:
+      213: 7483398188553057378
+    second: watabou pixel dungeon spritesheet_36
+  - first:
+      213: 680695667383390272
+    second: watabou pixel dungeon spritesheet_37
+  - first:
+      213: -7385277384268650214
+    second: watabou pixel dungeon spritesheet_38
+  - first:
+      213: 3521303767600981164
+    second: watabou pixel dungeon spritesheet_39
+  - first:
+      213: 887350851968411577
+    second: watabou pixel dungeon spritesheet_40
+  - first:
+      213: -3814891937043484543
+    second: watabou pixel dungeon spritesheet_41
+  - first:
+      213: -4873153343324013863
+    second: watabou pixel dungeon spritesheet_42
+  - first:
+      213: 5118446638166982820
+    second: watabou pixel dungeon spritesheet_43
+  - first:
+      213: -793209647567320782
+    second: watabou pixel dungeon spritesheet_44
+  - first:
+      213: 1654051459552320717
+    second: watabou pixel dungeon spritesheet_45
+  - first:
+      213: -903442032520932680
+    second: watabou pixel dungeon spritesheet_46
+  - first:
+      213: -5852049467302277947
+    second: watabou pixel dungeon spritesheet_47
+  - first:
+      213: 3927159274429520436
+    second: watabou pixel dungeon spritesheet_48
+  - first:
+      213: 6952320779108734927
+    second: watabou pixel dungeon spritesheet_49
+  - first:
+      213: 701266138130075322
+    second: watabou pixel dungeon spritesheet_50
+  - first:
+      213: 1735094464362798433
+    second: watabou pixel dungeon spritesheet_51
+  - first:
+      213: -3672840270541023768
+    second: watabou pixel dungeon spritesheet_52
+  - first:
+      213: -8481127105410140105
+    second: watabou pixel dungeon spritesheet_53
+  - first:
+      213: 7821095381546629414
+    second: watabou pixel dungeon spritesheet_54
+  - first:
+      213: 3571846123297412199
+    second: watabou pixel dungeon spritesheet_55
+  - first:
+      213: -801338359672253534
+    second: watabou pixel dungeon spritesheet_56
+  - first:
+      213: 1697577782459244516
+    second: watabou pixel dungeon spritesheet_57
+  - first:
+      213: 7039662939104149054
+    second: watabou pixel dungeon spritesheet_58
+  - first:
+      213: 5180456433969715513
+    second: watabou pixel dungeon spritesheet_59
+  - first:
+      213: -7258762750534113893
+    second: watabou pixel dungeon spritesheet_60
+  - first:
+      213: -7592976091053331439
+    second: watabou pixel dungeon spritesheet_61
+  - first:
+      213: -2549374678570782026
+    second: watabou pixel dungeon spritesheet_62
+  - first:
+      213: 309576882598500944
+    second: watabou pixel dungeon spritesheet_63
+  - first:
+      213: -1561458045305269112
+    second: watabou pixel dungeon spritesheet_64
+  - first:
+      213: -8144696532184921951
+    second: watabou pixel dungeon spritesheet_65
+  - first:
+      213: 2333670168874471669
+    second: watabou pixel dungeon spritesheet_66
+  - first:
+      213: 4874533295566264628
+    second: watabou pixel dungeon spritesheet_67
+  - first:
+      213: -5359569453646536778
+    second: watabou pixel dungeon spritesheet_68
+  - first:
+      213: -7087780827711700302
+    second: watabou pixel dungeon spritesheet_69
+  - first:
+      213: 2974567761189590504
+    second: watabou pixel dungeon spritesheet_70
+  - first:
+      213: 4522814830938262670
+    second: watabou pixel dungeon spritesheet_71
+  - first:
+      213: -5533633563263499670
+    second: watabou pixel dungeon spritesheet_72
+  - first:
+      213: -2207807238756359010
+    second: watabou pixel dungeon spritesheet_73
+  - first:
+      213: -1626797778408196051
+    second: watabou pixel dungeon spritesheet_74
+  - first:
+      213: -4321858843128045974
+    second: watabou pixel dungeon spritesheet_75
+  - first:
+      213: -5942625483710885959
+    second: watabou pixel dungeon spritesheet_76
+  - first:
+      213: 4286058366199532228
+    second: watabou pixel dungeon spritesheet_77
+  - first:
+      213: -801671228196165030
+    second: watabou pixel dungeon spritesheet_78
+  - first:
+      213: 3839921828140630033
+    second: watabou pixel dungeon spritesheet_79
+  - first:
+      213: -7082065833199771105
+    second: watabou pixel dungeon spritesheet_80
+  - first:
+      213: -6694170139026794715
+    second: watabou pixel dungeon spritesheet_81
+  - first:
+      213: -2330762652249410371
+    second: watabou pixel dungeon spritesheet_82
+  - first:
+      213: 7232320729494591980
+    second: watabou pixel dungeon spritesheet_83
+  - first:
+      213: -6356440805461513618
+    second: watabou pixel dungeon spritesheet_84
+  - first:
+      213: -4795521903125160077
+    second: watabou pixel dungeon spritesheet_85
+  - first:
+      213: 6907475187032333615
+    second: watabou pixel dungeon spritesheet_86
+  - first:
+      213: -1108695262167600884
+    second: watabou pixel dungeon spritesheet_87
+  - first:
+      213: 1844884631630886096
+    second: watabou pixel dungeon spritesheet_88
+  - first:
+      213: -5569428062910538504
+    second: watabou pixel dungeon spritesheet_89
+  - first:
+      213: 978941591775727578
+    second: watabou pixel dungeon spritesheet_90
+  - first:
+      213: -3757739003989806942
+    second: watabou pixel dungeon spritesheet_91
+  - first:
+      213: -1509869909830218324
+    second: watabou pixel dungeon spritesheet_92
+  - first:
+      213: 2301639295607826735
+    second: watabou pixel dungeon spritesheet_93
+  - first:
+      213: 5969763506704423588
+    second: watabou pixel dungeon spritesheet_94
+  - first:
+      213: -4658061526757687544
+    second: watabou pixel dungeon spritesheet_95
+  - first:
+      213: 7656218424467140962
+    second: watabou pixel dungeon spritesheet_96
+  - first:
+      213: -6934265475480020960
+    second: watabou pixel dungeon spritesheet_97
+  - first:
+      213: -4439222531272191241
+    second: watabou pixel dungeon spritesheet_98
+  - first:
+      213: 7444402406761642322
+    second: watabou pixel dungeon spritesheet_99
+  - first:
+      213: -4653319763575519366
+    second: watabou pixel dungeon spritesheet_100
+  - first:
+      213: -7899652642726623508
+    second: watabou pixel dungeon spritesheet_101
+  - first:
+      213: -2610792064998903045
+    second: watabou pixel dungeon spritesheet_102
+  - first:
+      213: 4593998936854714014
+    second: watabou pixel dungeon spritesheet_103
+  - first:
+      213: 8082639587090469198
+    second: watabou pixel dungeon spritesheet_104
+  - first:
+      213: 7269887067790447259
+    second: watabou pixel dungeon spritesheet_105
+  - first:
+      213: -7705769649105887694
+    second: watabou pixel dungeon spritesheet_106
+  - first:
+      213: 1721867415708774792
+    second: watabou pixel dungeon spritesheet_107
+  - first:
+      213: -954136309807317661
+    second: watabou pixel dungeon spritesheet_108
+  - first:
+      213: -4046975920563392918
+    second: watabou pixel dungeon spritesheet_109
+  - first:
+      213: -4102680220303077175
+    second: watabou pixel dungeon spritesheet_110
+  - first:
+      213: -754165490434741919
+    second: watabou pixel dungeon spritesheet_111
+  - first:
+      213: -8022211052966364790
+    second: watabou pixel dungeon spritesheet_112
+  - first:
+      213: 7826774883776203873
+    second: watabou pixel dungeon spritesheet_113
+  - first:
+      213: -5694760219562716798
+    second: watabou pixel dungeon spritesheet_114
+  - first:
+      213: 5317781407259065000
+    second: watabou pixel dungeon spritesheet_115
+  - first:
+      213: -1758552651321880501
+    second: watabou pixel dungeon spritesheet_116
+  - first:
+      213: 1704442978165905025
+    second: watabou pixel dungeon spritesheet_117
+  - first:
+      213: 6045406798453403470
+    second: watabou pixel dungeon spritesheet_118
+  - first:
+      213: 3645812767382930195
+    second: watabou pixel dungeon spritesheet_119
+  - first:
+      213: -805696201678244311
+    second: watabou pixel dungeon spritesheet_120
+  - first:
+      213: -8636684818784873767
+    second: watabou pixel dungeon spritesheet_121
+  - first:
+      213: 508282860905487354
+    second: watabou pixel dungeon spritesheet_122
+  - first:
+      213: 4356618420201855874
+    second: watabou pixel dungeon spritesheet_123
+  - first:
+      213: 5126831043223110919
+    second: watabou pixel dungeon spritesheet_124
+  - first:
+      213: -1459428762327155008
+    second: watabou pixel dungeon spritesheet_125
+  - first:
+      213: 6286754941694511625
+    second: watabou pixel dungeon spritesheet_126
+  - first:
+      213: -5876134032330295689
+    second: watabou pixel dungeon spritesheet_127
+  - first:
+      213: 5612987650578324036
+    second: watabou pixel dungeon spritesheet_128
+  - first:
+      213: -8582269522996457771
+    second: watabou pixel dungeon spritesheet_129
+  - first:
+      213: 3099477009722168419
+    second: watabou pixel dungeon spritesheet_130
+  - first:
+      213: -4431925606007942804
+    second: watabou pixel dungeon spritesheet_131
+  - first:
+      213: 4073799667959103757
+    second: watabou pixel dungeon spritesheet_132
+  - first:
+      213: 5962094512184842000
+    second: watabou pixel dungeon spritesheet_133
+  - first:
+      213: -3044413405165652868
+    second: watabou pixel dungeon spritesheet_134
+  - first:
+      213: 3971536229928279702
+    second: watabou pixel dungeon spritesheet_135
+  - first:
+      213: 7821706652683645343
+    second: watabou pixel dungeon spritesheet_136
+  - first:
+      213: 8095732882208487302
+    second: watabou pixel dungeon spritesheet_137
+  - first:
+      213: 3912159621218691331
+    second: watabou pixel dungeon spritesheet_138
+  - first:
+      213: -5545221400612568557
+    second: watabou pixel dungeon spritesheet_139
+  - first:
+      213: 490731033286086447
+    second: watabou pixel dungeon spritesheet_140
+  - first:
+      213: 4488525785381935739
+    second: watabou pixel dungeon spritesheet_141
+  - first:
+      213: -8032919023122839909
+    second: watabou pixel dungeon spritesheet_142
+  - first:
+      213: -507118536051340223
+    second: watabou pixel dungeon spritesheet_143
+  - first:
+      213: -7825353319555470895
+    second: watabou pixel dungeon spritesheet_144
+  - first:
+      213: 2397257589639574211
+    second: watabou pixel dungeon spritesheet_145
+  - first:
+      213: 3046080299673559849
+    second: watabou pixel dungeon spritesheet_146
+  - first:
+      213: -7950828409880480758
+    second: watabou pixel dungeon spritesheet_147
+  - first:
+      213: -5863437677852040910
+    second: watabou pixel dungeon spritesheet_148
+  - first:
+      213: -1559613671190789726
+    second: watabou pixel dungeon spritesheet_149
+  - first:
+      213: -9075129800712380590
+    second: watabou pixel dungeon spritesheet_150
+  - first:
+      213: -5400123618070831758
+    second: watabou pixel dungeon spritesheet_151
+  - first:
+      213: -7789228231106736091
+    second: watabou pixel dungeon spritesheet_152
+  - first:
+      213: 4904311835024957054
+    second: watabou pixel dungeon spritesheet_153
+  - first:
+      213: -2683461571116746197
+    second: watabou pixel dungeon spritesheet_154
+  - first:
+      213: -3261790893681079268
+    second: watabou pixel dungeon spritesheet_155
+  - first:
+      213: -8144558316440130745
+    second: watabou pixel dungeon spritesheet_156
+  - first:
+      213: 1221500417462048205
+    second: watabou pixel dungeon spritesheet_157
+  - first:
+      213: -6021982243238414942
+    second: watabou pixel dungeon spritesheet_158
+  - first:
+      213: -8082629346910673801
+    second: watabou pixel dungeon spritesheet_159
+  - first:
+      213: 6417726336799898802
+    second: watabou pixel dungeon spritesheet_160
+  - first:
+      213: -7175417974044389967
+    second: watabou pixel dungeon spritesheet_161
+  - first:
+      213: 5018138464590619204
+    second: watabou pixel dungeon spritesheet_162
+  - first:
+      213: -1907033253008608334
+    second: watabou pixel dungeon spritesheet_163
+  - first:
+      213: -8420927296253490086
+    second: watabou pixel dungeon spritesheet_164
+  - first:
+      213: -1351485809893382788
+    second: watabou pixel dungeon spritesheet_165
+  - first:
+      213: 1965702789109309574
+    second: watabou pixel dungeon spritesheet_166
+  - first:
+      213: 1716339867647573131
+    second: watabou pixel dungeon spritesheet_167
+  - first:
+      213: 6113213203151992366
+    second: watabou pixel dungeon spritesheet_168
+  - first:
+      213: -8946114181599461852
+    second: watabou pixel dungeon spritesheet_169
+  - first:
+      213: 4001158488557063673
+    second: watabou pixel dungeon spritesheet_170
+  - first:
+      213: 3340341825269968842
+    second: watabou pixel dungeon spritesheet_171
+  - first:
+      213: 7484013404806969039
+    second: watabou pixel dungeon spritesheet_172
+  - first:
+      213: -4221792761292774453
+    second: watabou pixel dungeon spritesheet_173
+  - first:
+      213: 3185871585035935299
+    second: watabou pixel dungeon spritesheet_174
+  - first:
+      213: 8802479426936703667
+    second: watabou pixel dungeon spritesheet_175
+  - first:
+      213: -4690473823493700376
+    second: watabou pixel dungeon spritesheet_176
+  - first:
+      213: -3701278464423820784
+    second: watabou pixel dungeon spritesheet_177
+  - first:
+      213: -2017414706908391420
+    second: watabou pixel dungeon spritesheet_178
+  - first:
+      213: 4466940356064677488
+    second: watabou pixel dungeon spritesheet_179
+  - first:
+      213: -1619324178504552489
+    second: watabou pixel dungeon spritesheet_180
+  - first:
+      213: -4147204750061428047
+    second: watabou pixel dungeon spritesheet_181
+  - first:
+      213: 8226973009077544562
+    second: watabou pixel dungeon spritesheet_182
+  - first:
+      213: -2220311546099303978
+    second: watabou pixel dungeon spritesheet_183
+  - first:
+      213: -582919489019938883
+    second: watabou pixel dungeon spritesheet_184
+  - first:
+      213: -3883944515750360504
+    second: watabou pixel dungeon spritesheet_185
+  - first:
+      213: -7202057820188718978
+    second: watabou pixel dungeon spritesheet_186
+  - first:
+      213: 6567680046204550257
+    second: watabou pixel dungeon spritesheet_187
+  - first:
+      213: 7426065236337279369
+    second: watabou pixel dungeon spritesheet_188
+  - first:
+      213: 7871417681644563864
+    second: watabou pixel dungeon spritesheet_189
+  - first:
+      213: -8709255945457565345
+    second: watabou pixel dungeon spritesheet_190
+  - first:
+      213: -7833540687818029169
+    second: watabou pixel dungeon spritesheet_191
+  - first:
+      213: 1289621971501564341
+    second: watabou pixel dungeon spritesheet_192
+  - first:
+      213: -7173222302104792161
+    second: watabou pixel dungeon spritesheet_193
+  - first:
+      213: -3423251321061049705
+    second: watabou pixel dungeon spritesheet_194
+  - first:
+      213: -4088014099586335480
+    second: watabou pixel dungeon spritesheet_195
+  - first:
+      213: -6640362659089906573
+    second: watabou pixel dungeon spritesheet_196
+  - first:
+      213: 720743976928126339
+    second: watabou pixel dungeon spritesheet_197
+  - first:
+      213: -155746250013378806
+    second: watabou pixel dungeon spritesheet_198
+  - first:
+      213: -867985212845514650
+    second: watabou pixel dungeon spritesheet_199
+  - first:
+      213: -1427844853185188066
+    second: watabou pixel dungeon spritesheet_200
+  - first:
+      213: -9099075591246074912
+    second: watabou pixel dungeon spritesheet_201
+  - first:
+      213: -4448151038308387764
+    second: watabou pixel dungeon spritesheet_202
+  - first:
+      213: -4888289606169999045
+    second: watabou pixel dungeon spritesheet_203
+  - first:
+      213: 2377884356572608427
+    second: watabou pixel dungeon spritesheet_204
+  - first:
+      213: -1087646027223205507
+    second: watabou pixel dungeon spritesheet_205
+  - first:
+      213: 6770648238147821234
+    second: watabou pixel dungeon spritesheet_206
+  - first:
+      213: -8783501130443346424
+    second: watabou pixel dungeon spritesheet_207
+  - first:
+      213: -5251834696472911567
+    second: watabou pixel dungeon spritesheet_208
+  - first:
+      213: 3673304203620907678
+    second: watabou pixel dungeon spritesheet_209
+  - first:
+      213: -3821469739824976137
+    second: watabou pixel dungeon spritesheet_210
+  - first:
+      213: 6311713408680815017
+    second: watabou pixel dungeon spritesheet_211
+  - first:
+      213: -6569064415579687217
+    second: watabou pixel dungeon spritesheet_212
+  - first:
+      213: -8357673431784795627
+    second: watabou pixel dungeon spritesheet_213
+  - first:
+      213: 2114975530223664518
+    second: watabou pixel dungeon spritesheet_214
+  - first:
+      213: 6341137202589864254
+    second: watabou pixel dungeon spritesheet_215
+  - first:
+      213: -2747312652621153689
+    second: watabou pixel dungeon spritesheet_216
+  - first:
+      213: 2615356913468470990
+    second: watabou pixel dungeon spritesheet_217
+  - first:
+      213: -6384173512251214800
+    second: watabou pixel dungeon spritesheet_218
+  - first:
+      213: -6079612033802557323
+    second: watabou pixel dungeon spritesheet_219
+  - first:
+      213: -4057794894345025807
+    second: watabou pixel dungeon spritesheet_220
+  - first:
+      213: 6524147594155731422
+    second: watabou pixel dungeon spritesheet_221
+  - first:
+      213: -6926972466194836673
+    second: watabou pixel dungeon spritesheet_222
+  - first:
+      213: -602994855543276376
+    second: watabou pixel dungeon spritesheet_223
+  - first:
+      213: -5254490864597463455
+    second: watabou pixel dungeon spritesheet_224
+  - first:
+      213: 3320276314835517721
+    second: watabou pixel dungeon spritesheet_225
+  - first:
+      213: 3198464772321563913
+    second: watabou pixel dungeon spritesheet_226
+  - first:
+      213: 7447957668313451830
+    second: watabou pixel dungeon spritesheet_227
+  - first:
+      213: 8499046940028293922
+    second: watabou pixel dungeon spritesheet_228
+  - first:
+      213: 8080472608708664423
+    second: watabou pixel dungeon spritesheet_229
+  - first:
+      213: 3247253214955684953
+    second: watabou pixel dungeon spritesheet_230
+  - first:
+      213: 1888223446122074081
+    second: watabou pixel dungeon spritesheet_231
+  - first:
+      213: 5195657280930133105
+    second: watabou pixel dungeon spritesheet_232
+  - first:
+      213: -2535353559836120600
+    second: watabou pixel dungeon spritesheet_233
+  - first:
+      213: -3768227017233114010
+    second: watabou pixel dungeon spritesheet_234
+  - first:
+      213: -927085223218744220
+    second: watabou pixel dungeon spritesheet_235
+  - first:
+      213: 8279455992741921391
+    second: watabou pixel dungeon spritesheet_236
+  - first:
+      213: -5981996289879626332
+    second: watabou pixel dungeon spritesheet_237
+  - first:
+      213: 4424219574860893317
+    second: watabou pixel dungeon spritesheet_238
+  - first:
+      213: 2521193849009126130
+    second: watabou pixel dungeon spritesheet_239
+  - first:
+      213: 2513882429502737739
+    second: watabou pixel dungeon spritesheet_240
+  - first:
+      213: -4523237087219583444
+    second: watabou pixel dungeon spritesheet_241
+  - first:
+      213: 4074588769427137028
+    second: watabou pixel dungeon spritesheet_242
+  - first:
+      213: -7381900493930740702
+    second: watabou pixel dungeon spritesheet_243
+  - first:
+      213: -3672445824810390133
+    second: watabou pixel dungeon spritesheet_244
+  - first:
+      213: -3750808329527396502
+    second: watabou pixel dungeon spritesheet_245
+  - first:
+      213: 7330301143304377004
+    second: watabou pixel dungeon spritesheet_246
+  - first:
+      213: 7632182140609005731
+    second: watabou pixel dungeon spritesheet_247
+  - first:
+      213: 6720428590912670819
+    second: watabou pixel dungeon spritesheet_248
+  - first:
+      213: -1334855948927717498
+    second: watabou pixel dungeon spritesheet_249
+  - first:
+      213: 7600688325502739947
+    second: watabou pixel dungeon spritesheet_250
+  - first:
+      213: -9099807090598468631
+    second: watabou pixel dungeon spritesheet_251
+  - first:
+      213: -5128508601321847218
+    second: watabou pixel dungeon spritesheet_252
+  - first:
+      213: 802955383014800495
+    second: watabou pixel dungeon spritesheet_253
+  - first:
+      213: 3532127431926868065
+    second: watabou pixel dungeon spritesheet_254
+  - first:
+      213: 9004767609781123530
+    second: watabou pixel dungeon spritesheet_255
+  - first:
+      213: 2770085866074081880
+    second: watabou pixel dungeon spritesheet_256
+  - first:
+      213: 2988879739991650539
+    second: watabou pixel dungeon spritesheet_257
+  - first:
+      213: 1778866920074428562
+    second: watabou pixel dungeon spritesheet_258
+  - first:
+      213: -1967023979601713043
+    second: watabou pixel dungeon spritesheet_259
+  - first:
+      213: -7237413488497930568
+    second: watabou pixel dungeon spritesheet_260
+  - first:
+      213: -2950807985677935661
+    second: watabou pixel dungeon spritesheet_261
+  - first:
+      213: 739476557796577065
+    second: watabou pixel dungeon spritesheet_262
+  - first:
+      213: 628090187961240564
+    second: watabou pixel dungeon spritesheet_263
+  - first:
+      213: -6919604065532819726
+    second: watabou pixel dungeon spritesheet_264
+  - first:
+      213: -6297911514392603359
+    second: watabou pixel dungeon spritesheet_265
+  - first:
+      213: -599957028775593926
+    second: watabou pixel dungeon spritesheet_266
+  - first:
+      213: 8591919707735836998
+    second: watabou pixel dungeon spritesheet_267
+  - first:
+      213: -1779902340582184492
+    second: watabou pixel dungeon spritesheet_268
+  - first:
+      213: -280530054337589658
+    second: watabou pixel dungeon spritesheet_269
+  - first:
+      213: -7602771825468867068
+    second: watabou pixel dungeon spritesheet_270
+  - first:
+      213: 3996552937419246346
+    second: watabou pixel dungeon spritesheet_271
+  - first:
+      213: -722714142974264407
+    second: watabou pixel dungeon spritesheet_272
+  - first:
+      213: 8124431814140682328
+    second: watabou pixel dungeon spritesheet_273
+  - first:
+      213: 2713951688404026570
+    second: watabou pixel dungeon spritesheet_274
+  - first:
+      213: -2365781645371774690
+    second: watabou pixel dungeon spritesheet_275
+  - first:
+      213: 6277367799864813584
+    second: watabou pixel dungeon spritesheet_276
+  - first:
+      213: -2329115201344421511
+    second: watabou pixel dungeon spritesheet_277
+  - first:
+      213: -8994601293310478342
+    second: watabou pixel dungeon spritesheet_278
+  - first:
+      213: 8945360380033602180
+    second: watabou pixel dungeon spritesheet_279
+  - first:
+      213: 6074861740887901528
+    second: watabou pixel dungeon spritesheet_280
+  - first:
+      213: 2385112300069443264
+    second: watabou pixel dungeon spritesheet_281
+  - first:
+      213: -4083485343812759775
+    second: watabou pixel dungeon spritesheet_282
+  - first:
+      213: -3681568053521476863
+    second: watabou pixel dungeon spritesheet_283
+  - first:
+      213: 1230143094278360525
+    second: watabou pixel dungeon spritesheet_284
+  - first:
+      213: -6530241854188748980
+    second: watabou pixel dungeon spritesheet_285
+  - first:
+      213: -7475028637028259016
+    second: watabou pixel dungeon spritesheet_286
+  - first:
+      213: 684509270075063184
+    second: watabou pixel dungeon spritesheet_287
+  - first:
+      213: -5564401211819841138
+    second: watabou pixel dungeon spritesheet_288
+  - first:
+      213: 7137304678699711285
+    second: watabou pixel dungeon spritesheet_289
+  - first:
+      213: -569692524535046443
+    second: watabou pixel dungeon spritesheet_290
+  - first:
+      213: 8592379000548060764
+    second: watabou pixel dungeon spritesheet_291
+  - first:
+      213: 10587024064051930
+    second: watabou pixel dungeon spritesheet_292
+  - first:
+      213: 5637760389140929954
+    second: watabou pixel dungeon spritesheet_293
+  - first:
+      213: 8973244785988245584
+    second: watabou pixel dungeon spritesheet_294
+  - first:
+      213: -274712975468912797
+    second: watabou pixel dungeon spritesheet_295
+  - first:
+      213: -4576501743665305171
+    second: watabou pixel dungeon spritesheet_296
+  - first:
+      213: -7004242128879799186
+    second: watabou pixel dungeon spritesheet_297
+  - first:
+      213: 7811895699857939551
+    second: watabou pixel dungeon spritesheet_298
+  - first:
+      213: -3485166019256454938
+    second: watabou pixel dungeon spritesheet_299
+  - first:
+      213: 1082306919865415850
+    second: watabou pixel dungeon spritesheet_300
+  - first:
+      213: -2151124483755844796
+    second: watabou pixel dungeon spritesheet_301
+  - first:
+      213: 5737521007345805790
+    second: watabou pixel dungeon spritesheet_302
+  - first:
+      213: 2777112828241694391
+    second: watabou pixel dungeon spritesheet_303
+  - first:
+      213: 653174602910332575
+    second: watabou pixel dungeon spritesheet_304
+  - first:
+      213: -4367782762125877078
+    second: watabou pixel dungeon spritesheet_305
+  - first:
+      213: 3423934026389393715
+    second: watabou pixel dungeon spritesheet_306
+  - first:
+      213: -2236370860637818436
+    second: watabou pixel dungeon spritesheet_307
+  - first:
+      213: 5392622412974433954
+    second: watabou pixel dungeon spritesheet_308
+  - first:
+      213: -7808531582227837126
+    second: watabou pixel dungeon spritesheet_309
+  - first:
+      213: -614504089479991989
+    second: watabou pixel dungeon spritesheet_310
+  - first:
+      213: 5715120887611088029
+    second: watabou pixel dungeon spritesheet_311
+  - first:
+      213: 3065139381930914613
+    second: watabou pixel dungeon spritesheet_312
+  - first:
+      213: -3446472682526941512
+    second: watabou pixel dungeon spritesheet_313
+  - first:
+      213: 6250809991709959752
+    second: watabou pixel dungeon spritesheet_314
+  - first:
+      213: 8253651429088953125
+    second: watabou pixel dungeon spritesheet_315
+  - first:
+      213: 2393986860107182318
+    second: watabou pixel dungeon spritesheet_316
+  - first:
+      213: 1036733653273676420
+    second: watabou pixel dungeon spritesheet_317
+  - first:
+      213: 611791821448935430
+    second: watabou pixel dungeon spritesheet_318
+  - first:
+      213: 1015253170226464377
+    second: watabou pixel dungeon spritesheet_319
+  - first:
+      213: 1816492875412369234
+    second: watabou pixel dungeon spritesheet_320
+  - first:
+      213: -8300084824573970046
+    second: watabou pixel dungeon spritesheet_321
+  - first:
+      213: -6594443417092106846
+    second: watabou pixel dungeon spritesheet_322
+  - first:
+      213: -402073972358782033
+    second: watabou pixel dungeon spritesheet_323
+  - first:
+      213: -6576441907445001162
+    second: watabou pixel dungeon spritesheet_324
+  - first:
+      213: -490497979487258611
+    second: watabou pixel dungeon spritesheet_325
+  - first:
+      213: 588948134539540545
+    second: watabou pixel dungeon spritesheet_326
+  - first:
+      213: -6751823882228191842
+    second: watabou pixel dungeon spritesheet_327
+  - first:
+      213: 5607187929720119938
+    second: watabou pixel dungeon spritesheet_328
+  - first:
+      213: 5825366456272031083
+    second: watabou pixel dungeon spritesheet_329
+  - first:
+      213: -833097498062822437
+    second: watabou pixel dungeon spritesheet_330
+  - first:
+      213: 8157215209181619145
+    second: watabou pixel dungeon spritesheet_331
+  - first:
+      213: -5390879236732994336
+    second: watabou pixel dungeon spritesheet_332
+  - first:
+      213: 5503359279267628232
+    second: watabou pixel dungeon spritesheet_333
+  - first:
+      213: 9169785803037045346
+    second: watabou pixel dungeon spritesheet_334
+  - first:
+      213: 7562110243494822236
+    second: watabou pixel dungeon spritesheet_335
+  - first:
+      213: -7649690673881691642
+    second: watabou pixel dungeon spritesheet_336
+  - first:
+      213: -216344540033461108
+    second: watabou pixel dungeon spritesheet_337
+  - first:
+      213: -1573738436737363776
+    second: watabou pixel dungeon spritesheet_338
+  - first:
+      213: 5618046783434116199
+    second: watabou pixel dungeon spritesheet_339
+  - first:
+      213: -4016465750396421050
+    second: watabou pixel dungeon spritesheet_340
+  - first:
+      213: -5163444040887648376
+    second: watabou pixel dungeon spritesheet_341
+  - first:
+      213: 5850296581806522517
+    second: watabou pixel dungeon spritesheet_342
+  - first:
+      213: -8913195142050484817
+    second: watabou pixel dungeon spritesheet_343
+  - first:
+      213: -4816847140906244052
+    second: watabou pixel dungeon spritesheet_344
+  - first:
+      213: 5469775190819709679
+    second: watabou pixel dungeon spritesheet_345
+  - first:
+      213: 513433526881789234
+    second: watabou pixel dungeon spritesheet_346
+  - first:
+      213: -1189849323102369838
+    second: watabou pixel dungeon spritesheet_347
+  - first:
+      213: -9148483954366264532
+    second: watabou pixel dungeon spritesheet_348
+  - first:
+      213: 3259171328784979846
+    second: watabou pixel dungeon spritesheet_349
+  - first:
+      213: 7060876538467547538
+    second: watabou pixel dungeon spritesheet_350
+  - first:
+      213: -7021163604476513673
+    second: watabou pixel dungeon spritesheet_351
+  - first:
+      213: 2211480924234150577
+    second: watabou pixel dungeon spritesheet_352
+  - first:
+      213: -5587293393008865143
+    second: watabou pixel dungeon spritesheet_353
+  - first:
+      213: 5326664950121355150
+    second: watabou pixel dungeon spritesheet_354
+  - first:
+      213: -7299852061929397990
+    second: watabou pixel dungeon spritesheet_355
+  - first:
+      213: -8488802091547483204
+    second: watabou pixel dungeon spritesheet_356
+  - first:
+      213: -3392943905064415901
+    second: watabou pixel dungeon spritesheet_357
+  - first:
+      213: 8714167828867909020
+    second: watabou pixel dungeon spritesheet_358
+  - first:
+      213: -5172443467710055365
+    second: watabou pixel dungeon spritesheet_359
+  - first:
+      213: 5814247826163453801
+    second: watabou pixel dungeon spritesheet_360
+  - first:
+      213: -2275560335556997200
+    second: watabou pixel dungeon spritesheet_361
+  - first:
+      213: -2678373694444787657
+    second: watabou pixel dungeon spritesheet_362
+  - first:
+      213: -2964590646717287220
+    second: watabou pixel dungeon spritesheet_363
+  - first:
+      213: -3974866725325750671
+    second: watabou pixel dungeon spritesheet_364
+  - first:
+      213: -1549177306768166601
+    second: watabou pixel dungeon spritesheet_365
+  - first:
+      213: 888270980767392783
+    second: watabou pixel dungeon spritesheet_366
+  - first:
+      213: 1739540562499284543
+    second: watabou pixel dungeon spritesheet_367
+  - first:
+      213: -5917443709768864486
+    second: watabou pixel dungeon spritesheet_368
+  - first:
+      213: -5184880750115404776
+    second: watabou pixel dungeon spritesheet_369
+  - first:
+      213: -2775542149468842661
+    second: watabou pixel dungeon spritesheet_370
+  - first:
+      213: -6126018483922923020
+    second: watabou pixel dungeon spritesheet_371
+  - first:
+      213: -739438003766851250
+    second: watabou pixel dungeon spritesheet_372
+  - first:
+      213: -2296485716950822160
+    second: watabou pixel dungeon spritesheet_373
+  - first:
+      213: 2785163048760459856
+    second: watabou pixel dungeon spritesheet_374
+  - first:
+      213: 4240205859843163432
+    second: watabou pixel dungeon spritesheet_375
+  - first:
+      213: -8666696270062477400
+    second: watabou pixel dungeon spritesheet_376
+  - first:
+      213: 6000904848606939464
+    second: watabou pixel dungeon spritesheet_377
+  - first:
+      213: 6530888676910614523
+    second: watabou pixel dungeon spritesheet_378
+  - first:
+      213: 7781313004541564377
+    second: watabou pixel dungeon spritesheet_379
+  - first:
+      213: 5145218815294521366
+    second: watabou pixel dungeon spritesheet_380
+  - first:
+      213: -5459516598953001643
+    second: watabou pixel dungeon spritesheet_381
+  - first:
+      213: -8532965115136816474
+    second: watabou pixel dungeon spritesheet_382
+  - first:
+      213: 1653871383270665064
+    second: watabou pixel dungeon spritesheet_383
+  - first:
+      213: 8787886976294263151
+    second: watabou pixel dungeon spritesheet_384
+  - first:
+      213: -1576272437739700163
+    second: watabou pixel dungeon spritesheet_385
+  - first:
+      213: -8056923872171609606
+    second: watabou pixel dungeon spritesheet_386
+  - first:
+      213: 1792642034640511727
+    second: watabou pixel dungeon spritesheet_387
+  - first:
+      213: 24145115406124266
+    second: watabou pixel dungeon spritesheet_388
+  - first:
+      213: -7595279310291314080
+    second: watabou pixel dungeon spritesheet_389
+  - first:
+      213: 8661789412837196735
+    second: watabou pixel dungeon spritesheet_390
+  - first:
+      213: -6872227715266728409
+    second: watabou pixel dungeon spritesheet_391
+  - first:
+      213: 5760368927179226229
+    second: watabou pixel dungeon spritesheet_392
+  - first:
+      213: -1427889624939007606
+    second: watabou pixel dungeon spritesheet_393
+  - first:
+      213: 6546742418387965117
+    second: watabou pixel dungeon spritesheet_394
+  - first:
+      213: 4836217859735502297
+    second: watabou pixel dungeon spritesheet_395
+  - first:
+      213: 1187176800118775832
+    second: watabou pixel dungeon spritesheet_396
+  - first:
+      213: 3490820758668965546
+    second: watabou pixel dungeon spritesheet_397
+  - first:
+      213: 2189119484393344103
+    second: watabou pixel dungeon spritesheet_398
+  - first:
+      213: -165767053181856713
+    second: watabou pixel dungeon spritesheet_399
+  - first:
+      213: -3013608956828619246
+    second: watabou pixel dungeon spritesheet_400
+  - first:
+      213: -6469576204221613995
+    second: watabou pixel dungeon spritesheet_401
+  - first:
+      213: 4570469596421882992
+    second: watabou pixel dungeon spritesheet_402
+  - first:
+      213: 4352472353209711710
+    second: watabou pixel dungeon spritesheet_403
+  - first:
+      213: -311132951321408706
+    second: watabou pixel dungeon spritesheet_404
+  - first:
+      213: 6833666218744480811
+    second: watabou pixel dungeon spritesheet_405
+  - first:
+      213: 3927578942143017169
+    second: watabou pixel dungeon spritesheet_406
+  - first:
+      213: 4615412443090230823
+    second: watabou pixel dungeon spritesheet_407
+  - first:
+      213: -6350965828842198730
+    second: watabou pixel dungeon spritesheet_408
+  - first:
+      213: -2743977770236517555
+    second: watabou pixel dungeon spritesheet_409
+  - first:
+      213: -3599948381310487592
+    second: watabou pixel dungeon spritesheet_410
+  - first:
+      213: -2987672649149689195
+    second: watabou pixel dungeon spritesheet_411
+  - first:
+      213: -6985589052158710424
+    second: watabou pixel dungeon spritesheet_412
+  - first:
+      213: -2329320949284178632
+    second: watabou pixel dungeon spritesheet_413
+  - first:
+      213: -4661211640174929417
+    second: watabou pixel dungeon spritesheet_414
+  - first:
+      213: 7337145692315360642
+    second: watabou pixel dungeon spritesheet_415
+  - first:
+      213: 7390839287513311772
+    second: watabou pixel dungeon spritesheet_416
+  - first:
+      213: -4171119996725908714
+    second: watabou pixel dungeon spritesheet_417
+  - first:
+      213: -7598404200914973017
+    second: watabou pixel dungeon spritesheet_418
+  - first:
+      213: 8969826197929429596
+    second: watabou pixel dungeon spritesheet_419
+  - first:
+      213: 3863235396080847530
+    second: watabou pixel dungeon spritesheet_420
+  - first:
+      213: -8426451643456207577
+    second: watabou pixel dungeon spritesheet_421
+  - first:
+      213: 4624616565553804319
+    second: watabou pixel dungeon spritesheet_422
+  - first:
+      213: -7218016098579428898
+    second: watabou pixel dungeon spritesheet_423
+  - first:
+      213: -7154272144596661956
+    second: watabou pixel dungeon spritesheet_424
+  - first:
+      213: -6156503065995872526
+    second: watabou pixel dungeon spritesheet_425
+  - first:
+      213: -5829454495492787718
+    second: watabou pixel dungeon spritesheet_426
+  - first:
+      213: -7047070359715836769
+    second: watabou pixel dungeon spritesheet_427
+  - first:
+      213: 1801506287278727283
+    second: watabou pixel dungeon spritesheet_428
+  - first:
+      213: -4840220170532610803
+    second: watabou pixel dungeon spritesheet_429
+  - first:
+      213: -5549427955092353728
+    second: watabou pixel dungeon spritesheet_430
+  - first:
+      213: -7287646724395655880
+    second: watabou pixel dungeon spritesheet_431
+  - first:
+      213: -5747847511870643644
+    second: watabou pixel dungeon spritesheet_432
+  - first:
+      213: -5644075407875989813
+    second: watabou pixel dungeon spritesheet_433
+  - first:
+      213: 8220699935169478976
+    second: watabou pixel dungeon spritesheet_434
+  - first:
+      213: 8689090633208941093
+    second: watabou pixel dungeon spritesheet_435
+  - first:
+      213: 2278500570035794160
+    second: watabou pixel dungeon spritesheet_436
+  - first:
+      213: -2326076636635738134
+    second: watabou pixel dungeon spritesheet_437
+  - first:
+      213: -8914146800125252546
+    second: watabou pixel dungeon spritesheet_438
+  - first:
+      213: 6922058046207373644
+    second: watabou pixel dungeon spritesheet_439
+  - first:
+      213: 3027249165235422061
+    second: watabou pixel dungeon spritesheet_440
+  - first:
+      213: 4504240050980385753
+    second: watabou pixel dungeon spritesheet_441
+  - first:
+      213: -7853187440338409850
+    second: watabou pixel dungeon spritesheet_442
+  - first:
+      213: -4013369483178861600
+    second: watabou pixel dungeon spritesheet_443
+  - first:
+      213: 563639463279423404
+    second: watabou pixel dungeon spritesheet_444
+  - first:
+      213: 2058011205049659903
+    second: watabou pixel dungeon spritesheet_445
+  - first:
+      213: 7966465806933121048
+    second: watabou pixel dungeon spritesheet_446
+  - first:
+      213: 5419009143476279233
+    second: watabou pixel dungeon spritesheet_447
+  - first:
+      213: 1267931773655786483
+    second: watabou pixel dungeon spritesheet_448
+  - first:
+      213: 8854992571108660518
+    second: watabou pixel dungeon spritesheet_449
+  - first:
+      213: 8006910244674470170
+    second: watabou pixel dungeon spritesheet_450
+  - first:
+      213: -1178841020946683115
+    second: watabou pixel dungeon spritesheet_451
+  - first:
+      213: 3548146834224639733
+    second: watabou pixel dungeon spritesheet_452
+  - first:
+      213: 8441461521687833025
+    second: watabou pixel dungeon spritesheet_453
+  - first:
+      213: -7099064945187228541
+    second: watabou pixel dungeon spritesheet_454
+  - first:
+      213: -4248875845509308791
+    second: watabou pixel dungeon spritesheet_455
+  - first:
+      213: -5766049718865672499
+    second: watabou pixel dungeon spritesheet_456
+  - first:
+      213: -8759333351323829117
+    second: watabou pixel dungeon spritesheet_457
+  - first:
+      213: -3456318343907973715
+    second: watabou pixel dungeon spritesheet_458
+  - first:
+      213: -888555945209133375
+    second: watabou pixel dungeon spritesheet_459
+  - first:
+      213: -175080990760537409
+    second: watabou pixel dungeon spritesheet_460
+  - first:
+      213: -6470992548302642460
+    second: watabou pixel dungeon spritesheet_461
+  - first:
+      213: 395878207613584290
+    second: watabou pixel dungeon spritesheet_462
+  - first:
+      213: -3307531333466455241
+    second: watabou pixel dungeon spritesheet_463
+  - first:
+      213: -2628025681363168412
+    second: watabou pixel dungeon spritesheet_464
+  - first:
+      213: 897300041109919345
+    second: watabou pixel dungeon spritesheet_465
+  - first:
+      213: -4290104800694824323
+    second: watabou pixel dungeon spritesheet_466
+  - first:
+      213: 1455438148953643949
+    second: watabou pixel dungeon spritesheet_467
+  - first:
+      213: 7314070360207224281
+    second: watabou pixel dungeon spritesheet_468
+  - first:
+      213: -8750224784804665438
+    second: watabou pixel dungeon spritesheet_469
+  - first:
+      213: 2564499252737776233
+    second: watabou pixel dungeon spritesheet_470
+  - first:
+      213: 8981213855102776267
+    second: watabou pixel dungeon spritesheet_471
+  - first:
+      213: 7433727646194005249
+    second: watabou pixel dungeon spritesheet_472
+  - first:
+      213: -1111566509570724100
+    second: watabou pixel dungeon spritesheet_473
+  - first:
+      213: -6803173799661838634
+    second: watabou pixel dungeon spritesheet_474
+  - first:
+      213: -7059101693148265429
+    second: watabou pixel dungeon spritesheet_475
+  - first:
+      213: -7110943934325096182
+    second: watabou pixel dungeon spritesheet_476
+  - first:
+      213: 9024173292355079014
+    second: watabou pixel dungeon spritesheet_477
+  - first:
+      213: -1230917857827492519
+    second: watabou pixel dungeon spritesheet_478
+  - first:
+      213: 6284078125599761096
+    second: watabou pixel dungeon spritesheet_479
+  - first:
+      213: 3466106066215839356
+    second: watabou pixel dungeon spritesheet_480
+  - first:
+      213: 3621477853786259049
+    second: watabou pixel dungeon spritesheet_481
+  - first:
+      213: 4270600825068177497
+    second: watabou pixel dungeon spritesheet_482
+  - first:
+      213: 6531526427445617737
+    second: watabou pixel dungeon spritesheet_483
+  - first:
+      213: -7310807928838476725
+    second: watabou pixel dungeon spritesheet_484
+  - first:
+      213: -6176199388077792070
+    second: watabou pixel dungeon spritesheet_485
+  - first:
+      213: 9091963916038826370
+    second: watabou pixel dungeon spritesheet_486
+  - first:
+      213: -3019647790770279085
+    second: watabou pixel dungeon spritesheet_487
+  - first:
+      213: 8952042761056471495
+    second: watabou pixel dungeon spritesheet_488
+  - first:
+      213: 8692233475967556713
+    second: watabou pixel dungeon spritesheet_489
+  - first:
+      213: -5962133280511486097
+    second: watabou pixel dungeon spritesheet_490
+  - first:
+      213: 1477957091703236253
+    second: watabou pixel dungeon spritesheet_491
+  - first:
+      213: 719702500817890826
+    second: watabou pixel dungeon spritesheet_492
+  - first:
+      213: -1807510771738961506
+    second: watabou pixel dungeon spritesheet_493
+  - first:
+      213: 5107613175063604566
+    second: watabou pixel dungeon spritesheet_494
+  - first:
+      213: 1210382888250315722
+    second: watabou pixel dungeon spritesheet_495
+  - first:
+      213: -6532200171324889680
+    second: watabou pixel dungeon spritesheet_496
+  - first:
+      213: 8435270852116979960
+    second: watabou pixel dungeon spritesheet_497
+  - first:
+      213: 7222213948238087034
+    second: watabou pixel dungeon spritesheet_498
+  - first:
+      213: -6198101406196666136
+    second: watabou pixel dungeon spritesheet_499
+  - first:
+      213: 2038278138840869191
+    second: watabou pixel dungeon spritesheet_500
+  - first:
+      213: 6148971330791725503
+    second: watabou pixel dungeon spritesheet_501
+  - first:
+      213: 5917342905165113858
+    second: watabou pixel dungeon spritesheet_502
+  - first:
+      213: -1344670612554593216
+    second: watabou pixel dungeon spritesheet_503
+  - first:
+      213: -1840218583002552825
+    second: watabou pixel dungeon spritesheet_504
+  - first:
+      213: -7056268869991541891
+    second: watabou pixel dungeon spritesheet_505
+  - first:
+      213: -8505196308605071560
+    second: watabou pixel dungeon spritesheet_506
+  - first:
+      213: 431625928271758435
+    second: watabou pixel dungeon spritesheet_507
+  - first:
+      213: -78321166813502157
+    second: watabou pixel dungeon spritesheet_508
+  - first:
+      213: 4866598404442790625
+    second: watabou pixel dungeon spritesheet_509
+  - first:
+      213: 361315229782017566
+    second: watabou pixel dungeon spritesheet_510
+  - first:
+      213: 6186443064461968503
+    second: watabou pixel dungeon spritesheet_511
+  - first:
+      213: -2655011194758684990
+    second: watabou pixel dungeon spritesheet_512
+  - first:
+      213: 3668762288607297329
+    second: watabou pixel dungeon spritesheet_513
+  - first:
+      213: -2408200193690755141
+    second: watabou pixel dungeon spritesheet_514
+  - first:
+      213: 8131905909501884251
+    second: watabou pixel dungeon spritesheet_515
+  - first:
+      213: -8110821460799823359
+    second: watabou pixel dungeon spritesheet_516
+  - first:
+      213: -7339153829108324932
+    second: watabou pixel dungeon spritesheet_517
+  - first:
+      213: 730354518289886597
+    second: watabou pixel dungeon spritesheet_518
+  - first:
+      213: -5251490245988781372
+    second: watabou pixel dungeon spritesheet_519
+  - first:
+      213: -7289748654414612655
+    second: watabou pixel dungeon spritesheet_520
+  - first:
+      213: -5269804988219415232
+    second: watabou pixel dungeon spritesheet_521
+  - first:
+      213: 529242314583366145
+    second: watabou pixel dungeon spritesheet_522
+  - first:
+      213: 1824544510361480076
+    second: watabou pixel dungeon spritesheet_523
+  - first:
+      213: -4968338906459022887
+    second: watabou pixel dungeon spritesheet_524
+  - first:
+      213: 5576757299248246006
+    second: watabou pixel dungeon spritesheet_525
+  - first:
+      213: 6408261699345487999
+    second: watabou pixel dungeon spritesheet_526
+  - first:
+      213: 7909646345047679101
+    second: watabou pixel dungeon spritesheet_527
+  - first:
+      213: -7460141445059798223
+    second: watabou pixel dungeon spritesheet_528
+  - first:
+      213: -4971771796180657310
+    second: watabou pixel dungeon spritesheet_529
+  - first:
+      213: 4585674884221458749
+    second: watabou pixel dungeon spritesheet_530
+  - first:
+      213: -8925353895712013186
+    second: watabou pixel dungeon spritesheet_531
+  - first:
+      213: -9044782245082031515
+    second: watabou pixel dungeon spritesheet_532
+  - first:
+      213: -2509313696629129848
+    second: watabou pixel dungeon spritesheet_533
+  - first:
+      213: 3493542250225256305
+    second: watabou pixel dungeon spritesheet_534
+  - first:
+      213: -4197721762871442154
+    second: watabou pixel dungeon spritesheet_535
+  - first:
+      213: -7468415254440940278
+    second: watabou pixel dungeon spritesheet_536
+  - first:
+      213: 340920055513808887
+    second: watabou pixel dungeon spritesheet_537
+  - first:
+      213: -8733856393270356150
+    second: watabou pixel dungeon spritesheet_538
+  - first:
+      213: 3534401815128066282
+    second: watabou pixel dungeon spritesheet_539
+  - first:
+      213: -2746787274532009427
+    second: watabou pixel dungeon spritesheet_540
+  - first:
+      213: 2427858307141785295
+    second: watabou pixel dungeon spritesheet_541
+  - first:
+      213: -1179176431874222644
+    second: watabou pixel dungeon spritesheet_542
+  - first:
+      213: 2355979564572102125
+    second: watabou pixel dungeon spritesheet_543
+  - first:
+      213: 1263326403944241024
+    second: watabou pixel dungeon spritesheet_544
+  - first:
+      213: -643756567030619394
+    second: watabou pixel dungeon spritesheet_545
+  - first:
+      213: 532453795710623063
+    second: watabou pixel dungeon spritesheet_546
+  - first:
+      213: 1018516000762034997
+    second: watabou pixel dungeon spritesheet_547
+  - first:
+      213: -5584683071006987231
+    second: watabou pixel dungeon spritesheet_548
+  - first:
+      213: 4210613498744082444
+    second: watabou pixel dungeon spritesheet_549
+  - first:
+      213: 355187756725237024
+    second: watabou pixel dungeon spritesheet_550
+  - first:
+      213: -649757793487082085
+    second: watabou pixel dungeon spritesheet_551
+  - first:
+      213: -733850809493121211
+    second: watabou pixel dungeon spritesheet_552
+  - first:
+      213: 5483435895278477586
+    second: watabou pixel dungeon spritesheet_553
+  - first:
+      213: 6378659550272710624
+    second: watabou pixel dungeon spritesheet_554
+  - first:
+      213: -3319839042045693206
+    second: watabou pixel dungeon spritesheet_555
+  - first:
+      213: 1350383878158430290
+    second: watabou pixel dungeon spritesheet_556
+  - first:
+      213: 2822863807009833448
+    second: watabou pixel dungeon spritesheet_557
+  - first:
+      213: 37018441228807934
+    second: watabou pixel dungeon spritesheet_558
+  - first:
+      213: 609204866436730798
+    second: watabou pixel dungeon spritesheet_559
+  - first:
+      213: 8749801472791121545
+    second: watabou pixel dungeon spritesheet_560
+  - first:
+      213: 1273370203912004025
+    second: watabou pixel dungeon spritesheet_561
+  - first:
+      213: 7489291701967609542
+    second: watabou pixel dungeon spritesheet_562
+  - first:
+      213: 6450987792798303315
+    second: watabou pixel dungeon spritesheet_563
+  - first:
+      213: 7558540164491933603
+    second: watabou pixel dungeon spritesheet_564
+  - first:
+      213: 5909996777926302363
+    second: watabou pixel dungeon spritesheet_565
+  - first:
+      213: -7853664601909671525
+    second: watabou pixel dungeon spritesheet_566
+  - first:
+      213: -407408769720708499
+    second: watabou pixel dungeon spritesheet_567
+  - first:
+      213: 827644140857156203
+    second: watabou pixel dungeon spritesheet_568
+  - first:
+      213: -7645934655823652363
+    second: watabou pixel dungeon spritesheet_569
+  - first:
+      213: 363099684381660880
+    second: watabou pixel dungeon spritesheet_570
+  - first:
+      213: 2169908358517446333
+    second: watabou pixel dungeon spritesheet_571
+  - first:
+      213: 6118237397564223964
+    second: watabou pixel dungeon spritesheet_572
+  - first:
+      213: 8319883229023464670
+    second: watabou pixel dungeon spritesheet_573
+  - first:
+      213: -6232938487236812812
+    second: watabou pixel dungeon spritesheet_574
+  - first:
+      213: -2517436682824872442
+    second: watabou pixel dungeon spritesheet_575
+  - first:
+      213: 1160622887039437512
+    second: watabou pixel dungeon spritesheet_576
+  - first:
+      213: -9052325317126137707
+    second: watabou pixel dungeon spritesheet_577
+  - first:
+      213: -8545301533482181935
+    second: watabou pixel dungeon spritesheet_578
+  - first:
+      213: 7170330093625972456
+    second: watabou pixel dungeon spritesheet_579
+  - first:
+      213: 3297757346190958067
+    second: watabou pixel dungeon spritesheet_580
+  - first:
+      213: -4024015141810841291
+    second: watabou pixel dungeon spritesheet_581
+  - first:
+      213: 1833703807621087235
+    second: watabou pixel dungeon spritesheet_582
+  - first:
+      213: -2661067826337689432
+    second: watabou pixel dungeon spritesheet_583
+  - first:
+      213: -6974200590515094504
+    second: watabou pixel dungeon spritesheet_584
+  - first:
+      213: -1051667093680653970
+    second: watabou pixel dungeon spritesheet_585
+  - first:
+      213: 9146019396961875678
+    second: watabou pixel dungeon spritesheet_586
+  - first:
+      213: -3146817891257475651
+    second: watabou pixel dungeon spritesheet_587
+  - first:
+      213: -7251574362982258896
+    second: watabou pixel dungeon spritesheet_588
+  - first:
+      213: 4205829074131899168
+    second: watabou pixel dungeon spritesheet_589
+  - first:
+      213: -5630333139220059747
+    second: watabou pixel dungeon spritesheet_590
+  - first:
+      213: 6189299992121726273
+    second: watabou pixel dungeon spritesheet_591
+  - first:
+      213: 252792447565857218
+    second: watabou pixel dungeon spritesheet_592
+  - first:
+      213: -1969272940292711155
+    second: watabou pixel dungeon spritesheet_593
+  - first:
+      213: 3992638592967325139
+    second: watabou pixel dungeon spritesheet_594
+  - first:
+      213: 6463307976854230715
+    second: watabou pixel dungeon spritesheet_595
+  - first:
+      213: -2790454908761868225
+    second: watabou pixel dungeon spritesheet_596
+  - first:
+      213: 1015443773644925564
+    second: watabou pixel dungeon spritesheet_597
+  - first:
+      213: -4910307690914853636
+    second: watabou pixel dungeon spritesheet_598
+  - first:
+      213: 5901449753963661987
+    second: watabou pixel dungeon spritesheet_599
+  - first:
+      213: -5911073870449815958
+    second: watabou pixel dungeon spritesheet_600
+  - first:
+      213: 1288828290283212007
+    second: watabou pixel dungeon spritesheet_601
+  - first:
+      213: -8995189721063995405
+    second: watabou pixel dungeon spritesheet_602
+  - first:
+      213: -57324009404392593
+    second: watabou pixel dungeon spritesheet_603
+  - first:
+      213: -4875891684363263287
+    second: watabou pixel dungeon spritesheet_604
+  - first:
+      213: 3024197864532989517
+    second: watabou pixel dungeon spritesheet_605
+  - first:
+      213: 3244076551667457725
+    second: watabou pixel dungeon spritesheet_606
+  - first:
+      213: -5882206323727077741
+    second: watabou pixel dungeon spritesheet_607
+  - first:
+      213: -5064318766932355619
+    second: watabou pixel dungeon spritesheet_608
+  - first:
+      213: 5623526307755302327
+    second: watabou pixel dungeon spritesheet_609
+  - first:
+      213: 5110805918361056946
+    second: watabou pixel dungeon spritesheet_610
+  - first:
+      213: -9185572337547335505
+    second: watabou pixel dungeon spritesheet_611
+  - first:
+      213: -3970503138300000407
+    second: watabou pixel dungeon spritesheet_612
+  - first:
+      213: -7252182215908496805
+    second: watabou pixel dungeon spritesheet_613
+  - first:
+      213: 5158357413161643250
+    second: watabou pixel dungeon spritesheet_614
+  - first:
+      213: 6015982132294085127
+    second: watabou pixel dungeon spritesheet_615
+  - first:
+      213: -4996901570666213891
+    second: watabou pixel dungeon spritesheet_616
+  - first:
+      213: -6169914946531183464
+    second: watabou pixel dungeon spritesheet_617
+  - first:
+      213: -5909040992339514616
+    second: watabou pixel dungeon spritesheet_618
+  - first:
+      213: -134749681834885648
+    second: watabou pixel dungeon spritesheet_619
+  - first:
+      213: 8123931318172244124
+    second: watabou pixel dungeon spritesheet_620
+  - first:
+      213: -2752678812601505276
+    second: watabou pixel dungeon spritesheet_621
+  - first:
+      213: -4906988995805117492
+    second: watabou pixel dungeon spritesheet_622
+  - first:
+      213: -2807194959271175777
+    second: watabou pixel dungeon spritesheet_623
+  - first:
+      213: -7477276891922489072
+    second: watabou pixel dungeon spritesheet_624
+  - first:
+      213: -1354175615126429077
+    second: watabou pixel dungeon spritesheet_625
+  - first:
+      213: -8830990614671732362
+    second: watabou pixel dungeon spritesheet_626
+  - first:
+      213: 2536873962453784206
+    second: watabou pixel dungeon spritesheet_627
+  - first:
+      213: -7396431887574020821
+    second: watabou pixel dungeon spritesheet_628
+  - first:
+      213: 6017998306161468989
+    second: watabou pixel dungeon spritesheet_629
+  - first:
+      213: -993458053233641743
+    second: watabou pixel dungeon spritesheet_630
+  - first:
+      213: 1215060873026819277
+    second: watabou pixel dungeon spritesheet_631
+  - first:
+      213: -5525819188478447734
+    second: watabou pixel dungeon spritesheet_632
+  - first:
+      213: 116968896212026824
+    second: watabou pixel dungeon spritesheet_633
+  - first:
+      213: -2008994993940547298
+    second: watabou pixel dungeon spritesheet_634
+  - first:
+      213: -2012036195082590517
+    second: watabou pixel dungeon spritesheet_635
+  - first:
+      213: 7591319274357680992
+    second: watabou pixel dungeon spritesheet_636
+  - first:
+      213: 3394407238094109935
+    second: watabou pixel dungeon spritesheet_637
+  - first:
+      213: 5134699034068428965
+    second: watabou pixel dungeon spritesheet_638
+  - first:
+      213: -5236420399074670585
+    second: watabou pixel dungeon spritesheet_639
+  - first:
+      213: 845868061939666548
+    second: watabou pixel dungeon spritesheet_640
+  - first:
+      213: -433522520727391154
+    second: watabou pixel dungeon spritesheet_641
+  - first:
+      213: -6242884041303658159
+    second: watabou pixel dungeon spritesheet_642
+  - first:
+      213: 6117446716239000022
+    second: watabou pixel dungeon spritesheet_643
+  - first:
+      213: 8696441657643719862
+    second: watabou pixel dungeon spritesheet_644
+  - first:
+      213: -8742537442004422543
+    second: watabou pixel dungeon spritesheet_645
+  - first:
+      213: -1221783565331365390
+    second: watabou pixel dungeon spritesheet_646
+  - first:
+      213: 7386915259490477959
+    second: watabou pixel dungeon spritesheet_647
+  - first:
+      213: 5719988253659834783
+    second: watabou pixel dungeon spritesheet_648
+  - first:
+      213: -8345977992474823485
+    second: watabou pixel dungeon spritesheet_649
+  - first:
+      213: 741461879842912591
+    second: watabou pixel dungeon spritesheet_650
+  - first:
+      213: 2764795990710235532
+    second: watabou pixel dungeon spritesheet_651
+  - first:
+      213: 2840546405388327282
+    second: watabou pixel dungeon spritesheet_652
+  - first:
+      213: -8931239763640696403
+    second: watabou pixel dungeon spritesheet_653
+  - first:
+      213: -1239946328416421441
+    second: watabou pixel dungeon spritesheet_654
+  - first:
+      213: 8482405516099159465
+    second: watabou pixel dungeon spritesheet_655
+  - first:
+      213: -1781946709444119629
+    second: watabou pixel dungeon spritesheet_656
+  - first:
+      213: 1529161261521800811
+    second: watabou pixel dungeon spritesheet_657
+  - first:
+      213: -8703557425610025532
+    second: watabou pixel dungeon spritesheet_658
+  - first:
+      213: 6589026558130285529
+    second: watabou pixel dungeon spritesheet_659
+  - first:
+      213: -5774364011867445131
+    second: watabou pixel dungeon spritesheet_660
+  - first:
+      213: -1899927256177417241
+    second: watabou pixel dungeon spritesheet_661
+  - first:
+      213: -981460348167393019
+    second: watabou pixel dungeon spritesheet_662
+  - first:
+      213: 2786957348332008973
+    second: watabou pixel dungeon spritesheet_663
+  - first:
+      213: -8277233334488164973
+    second: watabou pixel dungeon spritesheet_664
+  - first:
+      213: 5928153335515020085
+    second: watabou pixel dungeon spritesheet_665
+  - first:
+      213: -4070860884604982824
+    second: watabou pixel dungeon spritesheet_666
+  - first:
+      213: -8864524535063277461
+    second: watabou pixel dungeon spritesheet_667
+  - first:
+      213: -1803337947272213419
+    second: watabou pixel dungeon spritesheet_668
+  - first:
+      213: 4288912951984073454
+    second: watabou pixel dungeon spritesheet_669
+  - first:
+      213: 6836975282124923643
+    second: watabou pixel dungeon spritesheet_670
+  - first:
+      213: 5355530261803192312
+    second: watabou pixel dungeon spritesheet_671
+  - first:
+      213: -1877046079926691835
+    second: watabou pixel dungeon spritesheet_672
+  - first:
+      213: -2330740302625895675
+    second: watabou pixel dungeon spritesheet_673
+  - first:
+      213: -2069690928090679612
+    second: watabou pixel dungeon spritesheet_674
+  - first:
+      213: 8618418424357450257
+    second: watabou pixel dungeon spritesheet_675
+  - first:
+      213: 5255504977693429735
+    second: watabou pixel dungeon spritesheet_676
+  - first:
+      213: -5765959543536006433
+    second: watabou pixel dungeon spritesheet_677
+  - first:
+      213: -6684854856656526570
+    second: watabou pixel dungeon spritesheet_678
+  - first:
+      213: -8079833804943298529
+    second: watabou pixel dungeon spritesheet_679
+  - first:
+      213: -2803124038162251245
+    second: watabou pixel dungeon spritesheet_680
+  - first:
+      213: 689183727469680082
+    second: watabou pixel dungeon spritesheet_681
+  - first:
+      213: -8845618111096836247
+    second: watabou pixel dungeon spritesheet_682
+  - first:
+      213: -5616967820716210697
+    second: watabou pixel dungeon spritesheet_683
+  - first:
+      213: -4261849037642949477
+    second: watabou pixel dungeon spritesheet_684
+  - first:
+      213: 8665701477354399365
+    second: watabou pixel dungeon spritesheet_685
+  - first:
+      213: -1694906454019711730
+    second: watabou pixel dungeon spritesheet_686
+  - first:
+      213: 8592085587682839337
+    second: watabou pixel dungeon spritesheet_687
+  - first:
+      213: 2050507471225185984
+    second: watabou pixel dungeon spritesheet_688
+  - first:
+      213: -8204803170968913480
+    second: watabou pixel dungeon spritesheet_689
+  - first:
+      213: -1576808774287766216
+    second: watabou pixel dungeon spritesheet_690
+  - first:
+      213: -6363981552592600128
+    second: watabou pixel dungeon spritesheet_691
+  - first:
+      213: 1348694014696414345
+    second: watabou pixel dungeon spritesheet_692
+  - first:
+      213: 9015496328174473772
+    second: watabou pixel dungeon spritesheet_693
+  - first:
+      213: -4801627406282270002
+    second: watabou pixel dungeon spritesheet_694
+  - first:
+      213: -6119812769601940499
+    second: watabou pixel dungeon spritesheet_695
+  - first:
+      213: 5782068255828759183
+    second: watabou pixel dungeon spritesheet_696
+  - first:
+      213: -1769487144183430924
+    second: watabou pixel dungeon spritesheet_697
+  - first:
+      213: 2861873450915414821
+    second: watabou pixel dungeon spritesheet_698
+  - first:
+      213: 5870696211685827860
+    second: watabou pixel dungeon spritesheet_699
+  - first:
+      213: -2971816615166461174
+    second: watabou pixel dungeon spritesheet_700
+  - first:
+      213: -4231684262939377859
+    second: watabou pixel dungeon spritesheet_701
+  - first:
+      213: 3379027802186602545
+    second: watabou pixel dungeon spritesheet_702
+  - first:
+      213: -3015272176516197789
+    second: watabou pixel dungeon spritesheet_703
+  - first:
+      213: -4858016503774416187
+    second: watabou pixel dungeon spritesheet_704
+  - first:
+      213: -1000861140050973078
+    second: watabou pixel dungeon spritesheet_705
+  - first:
+      213: -9083944408599906417
+    second: watabou pixel dungeon spritesheet_706
+  - first:
+      213: -700157972265743020
+    second: watabou pixel dungeon spritesheet_707
+  - first:
+      213: -6636308602480476748
+    second: watabou pixel dungeon spritesheet_708
+  - first:
+      213: 5307573413045177381
+    second: watabou pixel dungeon spritesheet_709
+  - first:
+      213: -6724046721311807347
+    second: watabou pixel dungeon spritesheet_710
+  - first:
+      213: -2901846522465058127
+    second: watabou pixel dungeon spritesheet_711
+  - first:
+      213: 1403340987144921846
+    second: watabou pixel dungeon spritesheet_712
+  - first:
+      213: 3609667079283212785
+    second: watabou pixel dungeon spritesheet_713
+  - first:
+      213: -816020114129477128
+    second: watabou pixel dungeon spritesheet_714
+  - first:
+      213: -9036788802910228580
+    second: watabou pixel dungeon spritesheet_715
+  - first:
+      213: 4527135258614535670
+    second: watabou pixel dungeon spritesheet_716
+  - first:
+      213: -3737259997039489342
+    second: watabou pixel dungeon spritesheet_717
+  - first:
+      213: -8673500315338419093
+    second: watabou pixel dungeon spritesheet_718
+  - first:
+      213: -4036125513093691958
+    second: watabou pixel dungeon spritesheet_719
+  - first:
+      213: 6405976729983287808
+    second: watabou pixel dungeon spritesheet_720
+  - first:
+      213: -7107474833604247590
+    second: watabou pixel dungeon spritesheet_721
+  - first:
+      213: -7775323960727848517
+    second: watabou pixel dungeon spritesheet_722
+  - first:
+      213: 8109966429055735336
+    second: watabou pixel dungeon spritesheet_723
+  - first:
+      213: -5850229690732302938
+    second: watabou pixel dungeon spritesheet_724
+  - first:
+      213: 1889361875540713619
+    second: watabou pixel dungeon spritesheet_725
+  - first:
+      213: -2746697823174268615
+    second: watabou pixel dungeon spritesheet_726
+  - first:
+      213: 2656416657287307753
+    second: watabou pixel dungeon spritesheet_727
+  - first:
+      213: -5822211022359878989
+    second: watabou pixel dungeon spritesheet_728
+  - first:
+      213: 7711877090939016554
+    second: watabou pixel dungeon spritesheet_729
+  - first:
+      213: 7924547940350403631
+    second: watabou pixel dungeon spritesheet_730
+  - first:
+      213: -2977165267147274877
+    second: watabou pixel dungeon spritesheet_731
+  - first:
+      213: -3452560505092163908
+    second: watabou pixel dungeon spritesheet_732
+  - first:
+      213: -4202147937805126635
+    second: watabou pixel dungeon spritesheet_733
+  - first:
+      213: -6473940209306495221
+    second: watabou pixel dungeon spritesheet_734
+  - first:
+      213: -4573769980252861501
+    second: watabou pixel dungeon spritesheet_735
+  - first:
+      213: 8238890171749003617
+    second: watabou pixel dungeon spritesheet_736
+  - first:
+      213: 6878218319674337652
+    second: watabou pixel dungeon spritesheet_737
+  - first:
+      213: -9149722930587467205
+    second: watabou pixel dungeon spritesheet_738
+  - first:
+      213: -4362139302278505750
+    second: watabou pixel dungeon spritesheet_739
+  - first:
+      213: -8571525776991437062
+    second: watabou pixel dungeon spritesheet_740
+  - first:
+      213: 7688039273913672226
+    second: watabou pixel dungeon spritesheet_741
+  - first:
+      213: -5803473766037104448
+    second: watabou pixel dungeon spritesheet_742
+  - first:
+      213: 4429381956596622891
+    second: watabou pixel dungeon spritesheet_743
+  - first:
+      213: -506361978953102797
+    second: watabou pixel dungeon spritesheet_744
+  - first:
+      213: -2014511592996497226
+    second: watabou pixel dungeon spritesheet_745
+  - first:
+      213: -8848872105688953583
+    second: watabou pixel dungeon spritesheet_746
+  - first:
+      213: -2999910669796431
+    second: watabou pixel dungeon spritesheet_747
+  - first:
+      213: 6628975147120754262
+    second: watabou pixel dungeon spritesheet_748
+  - first:
+      213: 6546011584398191645
+    second: watabou pixel dungeon spritesheet_749
+  - first:
+      213: 6395007957936951914
+    second: watabou pixel dungeon spritesheet_750
+  - first:
+      213: -844214516311729967
+    second: watabou pixel dungeon spritesheet_751
+  - first:
+      213: -8722938192573658504
+    second: watabou pixel dungeon spritesheet_752
+  - first:
+      213: 4487559971850134071
+    second: watabou pixel dungeon spritesheet_753
+  - first:
+      213: -2646949191822747381
+    second: watabou pixel dungeon spritesheet_754
+  - first:
+      213: 8674805161596847639
+    second: watabou pixel dungeon spritesheet_755
+  - first:
+      213: -1354711154256823962
+    second: watabou pixel dungeon spritesheet_756
+  - first:
+      213: -2747977431359283298
+    second: watabou pixel dungeon spritesheet_757
+  - first:
+      213: 3768711478275240503
+    second: watabou pixel dungeon spritesheet_758
+  - first:
+      213: -3931080152881908199
+    second: watabou pixel dungeon spritesheet_759
+  - first:
+      213: -7069914190407269726
+    second: watabou pixel dungeon spritesheet_760
+  - first:
+      213: -2115015377253485696
+    second: watabou pixel dungeon spritesheet_761
+  - first:
+      213: 3944108165515763583
+    second: watabou pixel dungeon spritesheet_762
+  - first:
+      213: 9039743096040563200
+    second: watabou pixel dungeon spritesheet_763
+  - first:
+      213: -615770848139020981
+    second: watabou pixel dungeon spritesheet_764
+  - first:
+      213: -1631236388758113427
+    second: watabou pixel dungeon spritesheet_765
+  - first:
+      213: -8169399871569350375
+    second: watabou pixel dungeon spritesheet_766
+  - first:
+      213: -6510069376293301562
+    second: watabou pixel dungeon spritesheet_767
+  - first:
+      213: 2261710744229428983
+    second: watabou pixel dungeon spritesheet_768
+  - first:
+      213: 4903226661249052298
+    second: watabou pixel dungeon spritesheet_769
+  - first:
+      213: 624101591333313313
+    second: watabou pixel dungeon spritesheet_770
+  - first:
+      213: 7452757728876711581
+    second: watabou pixel dungeon spritesheet_771
+  - first:
+      213: 2499422997596430800
+    second: watabou pixel dungeon spritesheet_772
+  - first:
+      213: -804563478379272171
+    second: watabou pixel dungeon spritesheet_773
+  - first:
+      213: -1338510345954432056
+    second: watabou pixel dungeon spritesheet_774
+  - first:
+      213: -1297440550329981689
+    second: watabou pixel dungeon spritesheet_775
+  - first:
+      213: -3635927285672612764
+    second: watabou pixel dungeon spritesheet_776
+  - first:
+      213: 3843649798053913881
+    second: watabou pixel dungeon spritesheet_777
+  - first:
+      213: -8375514091695371821
+    second: watabou pixel dungeon spritesheet_778
+  - first:
+      213: 6767616565365478636
+    second: watabou pixel dungeon spritesheet_779
+  - first:
+      213: -8710293056238582466
+    second: watabou pixel dungeon spritesheet_780
+  - first:
+      213: 947434457245838332
+    second: watabou pixel dungeon spritesheet_781
+  - first:
+      213: 8923379912744555270
+    second: watabou pixel dungeon spritesheet_782
+  - first:
+      213: -5729040448966638427
+    second: watabou pixel dungeon spritesheet_783
+  - first:
+      213: -8282107287870660651
+    second: watabou pixel dungeon spritesheet_784
+  - first:
+      213: -7009846866433229770
+    second: watabou pixel dungeon spritesheet_785
+  - first:
+      213: 5189248469507760242
+    second: watabou pixel dungeon spritesheet_786
+  - first:
+      213: -929492378518292514
+    second: watabou pixel dungeon spritesheet_787
+  - first:
+      213: -3509198289441198470
+    second: watabou pixel dungeon spritesheet_788
+  - first:
+      213: -8260091157356715497
+    second: watabou pixel dungeon spritesheet_789
+  - first:
+      213: 250700349209676726
+    second: watabou pixel dungeon spritesheet_790
+  - first:
+      213: 8105377780461144307
+    second: watabou pixel dungeon spritesheet_791
+  - first:
+      213: -5746760721164687875
+    second: watabou pixel dungeon spritesheet_792
+  - first:
+      213: 2381802039359545923
+    second: watabou pixel dungeon spritesheet_793
+  - first:
+      213: -8259265891489681515
+    second: watabou pixel dungeon spritesheet_794
+  - first:
+      213: 2248306610471542944
+    second: watabou pixel dungeon spritesheet_795
+  - first:
+      213: -6288430817568777134
+    second: watabou pixel dungeon spritesheet_796
+  - first:
+      213: 5657093393615107634
+    second: watabou pixel dungeon spritesheet_797
+  - first:
+      213: 5897248354265710963
+    second: watabou pixel dungeon spritesheet_798
+  - first:
+      213: -4454237129553548782
+    second: watabou pixel dungeon spritesheet_799
+  - first:
+      213: -1163535912209563387
+    second: watabou pixel dungeon spritesheet_800
+  - first:
+      213: 8087566515624328629
+    second: watabou pixel dungeon spritesheet_801
+  - first:
+      213: -6452718249697259450
+    second: watabou pixel dungeon spritesheet_802
+  - first:
+      213: -5916209647351583936
+    second: watabou pixel dungeon spritesheet_803
+  - first:
+      213: -5542481985011021798
+    second: watabou pixel dungeon spritesheet_804
+  - first:
+      213: -4315414638021132641
+    second: watabou pixel dungeon spritesheet_805
+  - first:
+      213: 721810853926727241
+    second: watabou pixel dungeon spritesheet_806
+  - first:
+      213: 7772657973136839415
+    second: watabou pixel dungeon spritesheet_807
+  - first:
+      213: -8875579501424990637
+    second: watabou pixel dungeon spritesheet_808
+  - first:
+      213: 6053816259986324424
+    second: watabou pixel dungeon spritesheet_809
+  - first:
+      213: 6329092876254920051
+    second: watabou pixel dungeon spritesheet_810
+  - first:
+      213: -3218568801463795414
+    second: watabou pixel dungeon spritesheet_811
+  - first:
+      213: -7338997501526772096
+    second: watabou pixel dungeon spritesheet_812
+  - first:
+      213: -207478573909195684
+    second: watabou pixel dungeon spritesheet_813
+  - first:
+      213: -8592496981744496686
+    second: watabou pixel dungeon spritesheet_814
+  - first:
+      213: 1885139167238630641
+    second: watabou pixel dungeon spritesheet_815
+  - first:
+      213: -5845933164121529304
+    second: watabou pixel dungeon spritesheet_816
+  - first:
+      213: 4409453202841442866
+    second: watabou pixel dungeon spritesheet_817
+  - first:
+      213: 4690616107694936464
+    second: watabou pixel dungeon spritesheet_818
+  - first:
+      213: 3526124436093319053
+    second: watabou pixel dungeon spritesheet_819
+  - first:
+      213: 2291945559136384000
+    second: watabou pixel dungeon spritesheet_820
+  - first:
+      213: 446682114930188749
+    second: watabou pixel dungeon spritesheet_821
+  - first:
+      213: 1840765254041184369
+    second: watabou pixel dungeon spritesheet_822
+  - first:
+      213: 6860999622051319909
+    second: watabou pixel dungeon spritesheet_823
+  - first:
+      213: 5573138735674827462
+    second: watabou pixel dungeon spritesheet_824
+  - first:
+      213: 9162358536171784424
+    second: watabou pixel dungeon spritesheet_825
+  - first:
+      213: -5778338261818203551
+    second: watabou pixel dungeon spritesheet_826
+  - first:
+      213: -877642880720253210
+    second: watabou pixel dungeon spritesheet_827
+  - first:
+      213: 3710342573371385535
+    second: watabou pixel dungeon spritesheet_828
+  - first:
+      213: -1332752238898346131
+    second: watabou pixel dungeon spritesheet_829
+  - first:
+      213: 8177631249480656994
+    second: watabou pixel dungeon spritesheet_830
+  - first:
+      213: -3663279253138408563
+    second: watabou pixel dungeon spritesheet_831
+  - first:
+      213: -9149023902988913438
+    second: watabou pixel dungeon spritesheet_832
+  - first:
+      213: 8636940416204827756
+    second: watabou pixel dungeon spritesheet_833
+  - first:
+      213: 8159384172386866937
+    second: watabou pixel dungeon spritesheet_834
+  - first:
+      213: 6695024640810388181
+    second: watabou pixel dungeon spritesheet_835
+  - first:
+      213: -4549562640264086084
+    second: watabou pixel dungeon spritesheet_836
+  - first:
+      213: -3867846594134184115
+    second: watabou pixel dungeon spritesheet_837
+  - first:
+      213: 7650588519364786615
+    second: watabou pixel dungeon spritesheet_838
+  - first:
+      213: -6336388344859508143
+    second: watabou pixel dungeon spritesheet_839
+  - first:
+      213: 6421191867590542448
+    second: watabou pixel dungeon spritesheet_840
+  - first:
+      213: 5383986161101369884
+    second: watabou pixel dungeon spritesheet_841
+  - first:
+      213: 8833441275679118867
+    second: watabou pixel dungeon spritesheet_842
+  - first:
+      213: -311860426440143116
+    second: watabou pixel dungeon spritesheet_843
+  - first:
+      213: -3245871656699592597
+    second: watabou pixel dungeon spritesheet_844
+  - first:
+      213: -5255609346201189360
+    second: watabou pixel dungeon spritesheet_845
+  - first:
+      213: -6790816333971699428
+    second: watabou pixel dungeon spritesheet_846
+  - first:
+      213: 8398695788009243307
+    second: watabou pixel dungeon spritesheet_847
+  - first:
+      213: 8124222310132764860
+    second: watabou pixel dungeon spritesheet_848
+  - first:
+      213: 2087146573742132935
+    second: watabou pixel dungeon spritesheet_849
+  - first:
+      213: -2861236617344706295
+    second: watabou pixel dungeon spritesheet_850
+  - first:
+      213: -305373902977437871
+    second: watabou pixel dungeon spritesheet_851
+  - first:
+      213: -5069387652125853254
+    second: watabou pixel dungeon spritesheet_852
+  - first:
+      213: -5513039651985535597
+    second: watabou pixel dungeon spritesheet_853
+  - first:
+      213: 7501996475971175876
+    second: watabou pixel dungeon spritesheet_854
+  - first:
+      213: 8440329134543847572
+    second: watabou pixel dungeon spritesheet_855
+  - first:
+      213: 7154110201265010085
+    second: watabou pixel dungeon spritesheet_856
+  - first:
+      213: 2963663676664062555
+    second: watabou pixel dungeon spritesheet_857
+  - first:
+      213: 7905488251383842531
+    second: watabou pixel dungeon spritesheet_858
+  - first:
+      213: -5181134903760212892
+    second: watabou pixel dungeon spritesheet_859
+  - first:
+      213: 3384594085354500277
+    second: watabou pixel dungeon spritesheet_860
+  - first:
+      213: -4830676423737768845
+    second: watabou pixel dungeon spritesheet_861
+  - first:
+      213: 6766423387072593931
+    second: watabou pixel dungeon spritesheet_862
+  - first:
+      213: -7130239826721922602
+    second: watabou pixel dungeon spritesheet_863
+  - first:
+      213: -3104262064420916526
+    second: watabou pixel dungeon spritesheet_864
+  - first:
+      213: -6548631713173682789
+    second: watabou pixel dungeon spritesheet_865
+  - first:
+      213: 8736174113611313393
+    second: watabou pixel dungeon spritesheet_866
+  - first:
+      213: 56738422503253138
+    second: watabou pixel dungeon spritesheet_867
+  - first:
+      213: 5520876040535816272
+    second: watabou pixel dungeon spritesheet_868
+  - first:
+      213: 6461062757776569607
+    second: watabou pixel dungeon spritesheet_869
+  - first:
+      213: -2074162386703165232
+    second: watabou pixel dungeon spritesheet_870
+  - first:
+      213: -3788162824414084381
+    second: watabou pixel dungeon spritesheet_871
+  - first:
+      213: 538561418369224846
+    second: watabou pixel dungeon spritesheet_872
+  - first:
+      213: 1774654386842796209
+    second: watabou pixel dungeon spritesheet_873
+  - first:
+      213: 2742115042612263523
+    second: watabou pixel dungeon spritesheet_874
+  - first:
+      213: 8466469797777981362
+    second: watabou pixel dungeon spritesheet_875
+  - first:
+      213: 6327509125414636514
+    second: watabou pixel dungeon spritesheet_876
+  - first:
+      213: 305728011458761821
+    second: watabou pixel dungeon spritesheet_877
+  - first:
+      213: 2015402529613198831
+    second: watabou pixel dungeon spritesheet_878
+  - first:
+      213: -728689598526868170
+    second: watabou pixel dungeon spritesheet_879
+  - first:
+      213: 7974939185102904262
+    second: watabou pixel dungeon spritesheet_880
+  - first:
+      213: 9034402877486683958
+    second: watabou pixel dungeon spritesheet_881
+  - first:
+      213: 700089028804635963
+    second: watabou pixel dungeon spritesheet_882
+  - first:
+      213: -601480597912756558
+    second: watabou pixel dungeon spritesheet_883
+  - first:
+      213: 7693857870196921806
+    second: watabou pixel dungeon spritesheet_884
+  - first:
+      213: -1948154683783688386
+    second: watabou pixel dungeon spritesheet_885
+  - first:
+      213: 4760883746307094720
+    second: watabou pixel dungeon spritesheet_886
+  - first:
+      213: 1638990869661145455
+    second: watabou pixel dungeon spritesheet_887
+  - first:
+      213: -3159654699969328804
+    second: watabou pixel dungeon spritesheet_888
+  - first:
+      213: -8972707228728269698
+    second: watabou pixel dungeon spritesheet_889
+  - first:
+      213: -249842112289173346
+    second: watabou pixel dungeon spritesheet_890
+  - first:
+      213: 1798886256606332571
+    second: watabou pixel dungeon spritesheet_891
+  - first:
+      213: 5549124626160495349
+    second: watabou pixel dungeon spritesheet_892
+  - first:
+      213: 3850877350005152591
+    second: watabou pixel dungeon spritesheet_893
+  - first:
+      213: -3660263580032466165
+    second: watabou pixel dungeon spritesheet_894
+  - first:
+      213: 5001572169825215926
+    second: watabou pixel dungeon spritesheet_895
+  - first:
+      213: 298998162340853111
+    second: watabou pixel dungeon spritesheet_896
+  - first:
+      213: 4296951552180879287
+    second: watabou pixel dungeon spritesheet_897
+  - first:
+      213: 299290319802355005
+    second: watabou pixel dungeon spritesheet_898
+  - first:
+      213: 4758849315547291612
+    second: watabou pixel dungeon spritesheet_899
+  - first:
+      213: -5981187459826093327
+    second: watabou pixel dungeon spritesheet_900
+  - first:
+      213: -1037216707064765139
+    second: watabou pixel dungeon spritesheet_901
+  - first:
+      213: -5237775134914256661
+    second: watabou pixel dungeon spritesheet_902
+  - first:
+      213: -6187256374502219967
+    second: watabou pixel dungeon spritesheet_903
+  - first:
+      213: -7996409390821584909
+    second: watabou pixel dungeon spritesheet_904
+  - first:
+      213: 6428592785954046744
+    second: watabou pixel dungeon spritesheet_905
+  - first:
+      213: -8892980668426587164
+    second: watabou pixel dungeon spritesheet_906
+  - first:
+      213: 688897066808048553
+    second: watabou pixel dungeon spritesheet_907
+  - first:
+      213: -6784723708883480155
+    second: watabou pixel dungeon spritesheet_908
+  - first:
+      213: 5458251771998228011
+    second: watabou pixel dungeon spritesheet_909
+  - first:
+      213: -4316047421619435878
+    second: watabou pixel dungeon spritesheet_910
+  - first:
+      213: -9131517481227249885
+    second: watabou pixel dungeon spritesheet_911
+  - first:
+      213: -4968825566285976342
+    second: watabou pixel dungeon spritesheet_912
+  - first:
+      213: 6523902939370274485
+    second: watabou pixel dungeon spritesheet_913
+  - first:
+      213: -9146178478768691295
+    second: watabou pixel dungeon spritesheet_914
+  - first:
+      213: -8922645191899136130
+    second: watabou pixel dungeon spritesheet_915
+  - first:
+      213: -8318729470112242499
+    second: watabou pixel dungeon spritesheet_916
+  - first:
+      213: 8438430251131707102
+    second: watabou pixel dungeon spritesheet_917
+  - first:
+      213: -7957174331754734763
+    second: watabou pixel dungeon spritesheet_918
+  - first:
+      213: 5160063346803763908
+    second: watabou pixel dungeon spritesheet_919
+  - first:
+      213: -6401847525912644011
+    second: watabou pixel dungeon spritesheet_920
+  - first:
+      213: 1650749119544642092
+    second: watabou pixel dungeon spritesheet_921
+  - first:
+      213: 6031435663121185374
+    second: watabou pixel dungeon spritesheet_922
+  - first:
+      213: -7783352019880136759
+    second: watabou pixel dungeon spritesheet_923
+  - first:
+      213: 3872455345820695483
+    second: watabou pixel dungeon spritesheet_924
+  - first:
+      213: 5462285023288351425
+    second: watabou pixel dungeon spritesheet_925
+  - first:
+      213: -7751987888228040288
+    second: watabou pixel dungeon spritesheet_926
+  - first:
+      213: -3674487978613995995
+    second: watabou pixel dungeon spritesheet_927
+  - first:
+      213: -5282581991580558657
+    second: watabou pixel dungeon spritesheet_928
+  - first:
+      213: 1166856147388571188
+    second: watabou pixel dungeon spritesheet_929
+  - first:
+      213: 5606925788952637923
+    second: watabou pixel dungeon spritesheet_930
+  - first:
+      213: 6220533492487921321
+    second: watabou pixel dungeon spritesheet_931
+  - first:
+      213: 7265841169214578544
+    second: watabou pixel dungeon spritesheet_932
+  - first:
+      213: 270665822198279088
+    second: watabou pixel dungeon spritesheet_933
+  - first:
+      213: 3526793448788805911
+    second: watabou pixel dungeon spritesheet_934
+  - first:
+      213: -3773683184501485773
+    second: watabou pixel dungeon spritesheet_935
+  - first:
+      213: -1895640733544819967
+    second: watabou pixel dungeon spritesheet_936
+  - first:
+      213: 6080095869952008819
+    second: watabou pixel dungeon spritesheet_937
+  - first:
+      213: 1897986780909698202
+    second: watabou pixel dungeon spritesheet_938
+  - first:
+      213: 2239822549374488856
+    second: watabou pixel dungeon spritesheet_939
+  - first:
+      213: -3864764832524591323
+    second: watabou pixel dungeon spritesheet_940
+  - first:
+      213: -3212928304502197095
+    second: watabou pixel dungeon spritesheet_941
+  - first:
+      213: 2372625770559537393
+    second: watabou pixel dungeon spritesheet_942
+  - first:
+      213: -6140532074933532530
+    second: watabou pixel dungeon spritesheet_943
+  - first:
+      213: 8785393032783368533
+    second: watabou pixel dungeon spritesheet_944
+  - first:
+      213: 6561888057525303383
+    second: watabou pixel dungeon spritesheet_945
+  - first:
+      213: -3353900447716224266
+    second: watabou pixel dungeon spritesheet_946
+  - first:
+      213: 8552405518170945095
+    second: watabou pixel dungeon spritesheet_947
+  - first:
+      213: -5930874929499015135
+    second: watabou pixel dungeon spritesheet_948
+  - first:
+      213: -2921471774019457054
+    second: watabou pixel dungeon spritesheet_949
+  - first:
+      213: -3160972520348984606
+    second: watabou pixel dungeon spritesheet_950
+  - first:
+      213: 7773616127606766495
+    second: watabou pixel dungeon spritesheet_951
+  - first:
+      213: -1912509531422938164
+    second: watabou pixel dungeon spritesheet_952
+  - first:
+      213: -1051982623498508665
+    second: watabou pixel dungeon spritesheet_953
+  - first:
+      213: 5240906558510291839
+    second: watabou pixel dungeon spritesheet_954
+  - first:
+      213: -2874180196923469515
+    second: watabou pixel dungeon spritesheet_955
+  - first:
+      213: 4562102446682540967
+    second: watabou pixel dungeon spritesheet_956
+  - first:
+      213: 6972548529991879872
+    second: watabou pixel dungeon spritesheet_957
+  - first:
+      213: 7118357600960219336
+    second: watabou pixel dungeon spritesheet_958
+  - first:
+      213: -2340934652637308549
+    second: watabou pixel dungeon spritesheet_959
+  - first:
+      213: -3726270134066406870
+    second: watabou pixel dungeon spritesheet_960
+  - first:
+      213: -8063528970143500520
+    second: watabou pixel dungeon spritesheet_961
+  - first:
+      213: -37051814740450278
+    second: watabou pixel dungeon spritesheet_962
+  - first:
+      213: 5881989055974819966
+    second: watabou pixel dungeon spritesheet_963
+  - first:
+      213: 7746684089197257141
+    second: watabou pixel dungeon spritesheet_964
+  - first:
+      213: 4409020031850576784
+    second: watabou pixel dungeon spritesheet_965
+  - first:
+      213: -4178604988552272669
+    second: watabou pixel dungeon spritesheet_966
+  - first:
+      213: -4971146062474589821
+    second: watabou pixel dungeon spritesheet_967
+  - first:
+      213: -8317054591746850703
+    second: watabou pixel dungeon spritesheet_968
+  - first:
+      213: -3549346209697813929
+    second: watabou pixel dungeon spritesheet_969
+  - first:
+      213: -3077368857969161225
+    second: watabou pixel dungeon spritesheet_970
+  - first:
+      213: -120203384125764901
+    second: watabou pixel dungeon spritesheet_971
+  - first:
+      213: -4127104141602281973
+    second: watabou pixel dungeon spritesheet_972
+  - first:
+      213: 3197431055631763626
+    second: watabou pixel dungeon spritesheet_973
+  - first:
+      213: -6597110174286898964
+    second: watabou pixel dungeon spritesheet_974
+  - first:
+      213: 1440543733202296113
+    second: watabou pixel dungeon spritesheet_975
+  - first:
+      213: 8199755202340806216
+    second: watabou pixel dungeon spritesheet_976
+  - first:
+      213: -5915208392546678631
+    second: watabou pixel dungeon spritesheet_977
+  - first:
+      213: -556773217573808945
+    second: watabou pixel dungeon spritesheet_978
+  - first:
+      213: -7255629767624252073
+    second: watabou pixel dungeon spritesheet_979
+  - first:
+      213: 6939225847726155059
+    second: watabou pixel dungeon spritesheet_980
+  - first:
+      213: -4841711759553405113
+    second: watabou pixel dungeon spritesheet_981
+  - first:
+      213: 4986697658070806799
+    second: watabou pixel dungeon spritesheet_982
+  - first:
+      213: -5538517649868899275
+    second: watabou pixel dungeon spritesheet_983
+  - first:
+      213: -8110590673917182934
+    second: watabou pixel dungeon spritesheet_984
+  - first:
+      213: 1137928056655269228
+    second: watabou pixel dungeon spritesheet_985
+  - first:
+      213: 3296455056593806598
+    second: watabou pixel dungeon spritesheet_986
+  - first:
+      213: 4790497128713944558
+    second: watabou pixel dungeon spritesheet_987
+  - first:
+      213: 5197075973991019498
+    second: watabou pixel dungeon spritesheet_988
+  - first:
+      213: 6918098069002585616
+    second: watabou pixel dungeon spritesheet_989
+  - first:
+      213: -7529175508130596122
+    second: watabou pixel dungeon spritesheet_990
+  - first:
+      213: 7414047965397564522
+    second: watabou pixel dungeon spritesheet_991
+  - first:
+      213: 3056693809314323895
+    second: watabou pixel dungeon spritesheet_992
+  - first:
+      213: -5810246286168947345
+    second: watabou pixel dungeon spritesheet_993
+  - first:
+      213: -2695928733361649047
+    second: watabou pixel dungeon spritesheet_994
+  - first:
+      213: 4393574170697010134
+    second: watabou pixel dungeon spritesheet_995
+  - first:
+      213: 3344358402479855373
+    second: watabou pixel dungeon spritesheet_996
+  - first:
+      213: 2582678542065991411
+    second: watabou pixel dungeon spritesheet_997
+  - first:
+      213: -4383405527027631157
+    second: watabou pixel dungeon spritesheet_998
+  - first:
+      213: -7874945514922697848
+    second: watabou pixel dungeon spritesheet_999
+  - first:
+      213: -8078468015847643458
+    second: watabou pixel dungeon spritesheet_1000
+  - first:
+      213: -359871997931286771
+    second: watabou pixel dungeon spritesheet_1001
+  - first:
+      213: -4493817160750345498
+    second: watabou pixel dungeon spritesheet_1002
+  - first:
+      213: -4499179938962905408
+    second: watabou pixel dungeon spritesheet_1003
+  - first:
+      213: 8515897276834687506
+    second: watabou pixel dungeon spritesheet_1004
+  - first:
+      213: -5327918823697983372
+    second: watabou pixel dungeon spritesheet_1005
+  - first:
+      213: -7482810633594787833
+    second: watabou pixel dungeon spritesheet_1006
+  - first:
+      213: -802068696149318501
+    second: watabou pixel dungeon spritesheet_1007
+  - first:
+      213: -5875951947431249136
+    second: watabou pixel dungeon spritesheet_1008
+  - first:
+      213: -7538309533665127112
+    second: watabou pixel dungeon spritesheet_1009
+  - first:
+      213: -7316648810681141535
+    second: watabou pixel dungeon spritesheet_1010
+  - first:
+      213: 3297672564942097828
+    second: watabou pixel dungeon spritesheet_1011
+  - first:
+      213: -6835690947201347977
+    second: watabou pixel dungeon spritesheet_1012
+  - first:
+      213: 8388153258292446292
+    second: watabou pixel dungeon spritesheet_1013
+  - first:
+      213: -7038357116927827487
+    second: watabou pixel dungeon spritesheet_1014
+  - first:
+      213: -8978465292172485718
+    second: watabou pixel dungeon spritesheet_1015
+  - first:
+      213: -1049374539309171980
+    second: watabou pixel dungeon spritesheet_1016
+  - first:
+      213: 8655928600362534278
+    second: watabou pixel dungeon spritesheet_1017
+  - first:
+      213: 1811321155134454763
+    second: watabou pixel dungeon spritesheet_1018
+  - first:
+      213: -7514984431667935977
+    second: watabou pixel dungeon spritesheet_1019
+  - first:
+      213: 562614247889712503
+    second: watabou pixel dungeon spritesheet_1020
+  - first:
+      213: 1009917750070746673
+    second: watabou pixel dungeon spritesheet_1021
+  - first:
+      213: -4939424611325039462
+    second: watabou pixel dungeon spritesheet_1022
+  - first:
+      213: 3598814024114959099
+    second: watabou pixel dungeon spritesheet_1023
+  - first:
+      213: -6987010224906096764
+    second: watabou pixel dungeon spritesheet_1024
+  - first:
+      213: 4702138280321455031
+    second: watabou pixel dungeon spritesheet_1025
+  - first:
+      213: 6601202266021571957
+    second: watabou pixel dungeon spritesheet_1026
+  - first:
+      213: 5564912346107139336
+    second: watabou pixel dungeon spritesheet_1027
+  - first:
+      213: -7526399288881785221
+    second: watabou pixel dungeon spritesheet_1028
+  - first:
+      213: -1314298025297396030
+    second: watabou pixel dungeon spritesheet_1029
+  - first:
+      213: 7700477489050168095
+    second: watabou pixel dungeon spritesheet_1030
+  - first:
+      213: -8954746740162191703
+    second: watabou pixel dungeon spritesheet_1031
+  - first:
+      213: -5605200947251917105
+    second: watabou pixel dungeon spritesheet_1032
+  - first:
+      213: -3864335592352552518
+    second: watabou pixel dungeon spritesheet_1033
+  - first:
+      213: 6965207070188091084
+    second: watabou pixel dungeon spritesheet_1034
+  - first:
+      213: -5474391041285257270
+    second: watabou pixel dungeon spritesheet_1035
+  - first:
+      213: 7230703352721613311
+    second: watabou pixel dungeon spritesheet_1036
+  - first:
+      213: 8982190141929691200
+    second: watabou pixel dungeon spritesheet_1037
+  - first:
+      213: 5057891078111485121
+    second: watabou pixel dungeon spritesheet_1038
+  - first:
+      213: 1889407860779699575
+    second: watabou pixel dungeon spritesheet_1039
+  - first:
+      213: 7066029642120169344
+    second: watabou pixel dungeon spritesheet_1040
+  - first:
+      213: -6285932314955932594
+    second: watabou pixel dungeon spritesheet_1041
+  - first:
+      213: 4925986710713154141
+    second: watabou pixel dungeon spritesheet_1042
+  - first:
+      213: 2007918199659008859
+    second: watabou pixel dungeon spritesheet_1043
+  - first:
+      213: -3707581978288737205
+    second: watabou pixel dungeon spritesheet_1044
+  - first:
+      213: -8658299884932857246
+    second: watabou pixel dungeon spritesheet_1045
+  - first:
+      213: 980140564909457448
+    second: watabou pixel dungeon spritesheet_1046
+  - first:
+      213: 7449497649570046838
+    second: watabou pixel dungeon spritesheet_1047
+  - first:
+      213: -7250472183194560486
+    second: watabou pixel dungeon spritesheet_1048
+  - first:
+      213: 5428045590622985225
+    second: watabou pixel dungeon spritesheet_1049
+  - first:
+      213: -849140790515157806
+    second: watabou pixel dungeon spritesheet_1050
+  - first:
+      213: -7956391685092096252
+    second: watabou pixel dungeon spritesheet_1051
+  - first:
+      213: -2469899776489035503
+    second: watabou pixel dungeon spritesheet_1052
+  - first:
+      213: -2710745878010593308
+    second: watabou pixel dungeon spritesheet_1053
+  - first:
+      213: -7798485795285006941
+    second: watabou pixel dungeon spritesheet_1054
+  - first:
+      213: -7856088432053875071
+    second: watabou pixel dungeon spritesheet_1055
+  - first:
+      213: 7762950808877720430
+    second: watabou pixel dungeon spritesheet_1056
+  - first:
+      213: -8188063284737817337
+    second: watabou pixel dungeon spritesheet_1057
+  - first:
+      213: 4000092661302372591
+    second: watabou pixel dungeon spritesheet_1058
+  - first:
+      213: 8234450628884907359
+    second: watabou pixel dungeon spritesheet_1059
+  - first:
+      213: 8837031926377191694
+    second: watabou pixel dungeon spritesheet_1060
+  - first:
+      213: -2278580435315614927
+    second: watabou pixel dungeon spritesheet_1061
+  - first:
+      213: -5192704955549554411
+    second: watabou pixel dungeon spritesheet_1062
+  - first:
+      213: 923740072739317915
+    second: watabou pixel dungeon spritesheet_1063
+  - first:
+      213: 2693204589853576876
+    second: watabou pixel dungeon spritesheet_1064
+  - first:
+      213: 6278132968659524850
+    second: watabou pixel dungeon spritesheet_1065
+  - first:
+      213: 4798543415250856927
+    second: watabou pixel dungeon spritesheet_1066
+  - first:
+      213: 2000471549770876427
+    second: watabou pixel dungeon spritesheet_1067
+  - first:
+      213: -1397353005840407655
+    second: watabou pixel dungeon spritesheet_1068
+  - first:
+      213: 4743162799340560699
+    second: watabou pixel dungeon spritesheet_1069
+  - first:
+      213: 424367187176670585
+    second: watabou pixel dungeon spritesheet_1070
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 666
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c641e5814885b60800000000000000
+      internalID: 7735077600201305179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 665
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f048833ed03c80800000000000000
+      internalID: -8344925796606872635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 653
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3695799ee6598d40800000000000000
+      internalID: 5587092395506636348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55925306a3902bc90800000000000000
+      internalID: -7155646711611446955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 701
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682111c37a9db9d40800000000000000
+      internalID: 5592302674601120390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 701
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317dcac7e48f7e9c0800000000000000
+      internalID: -3897873936483035373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 654
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e1847d1cdbab10800000000000000
+      internalID: 1993929279108408537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 655
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a2b23e08475430800000000000000
+      internalID: 3771562438763390287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 669
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d3daab85d46a60800000000000000
+      internalID: 7666487261534607774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 669
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ac31335715f880800000000000000
+      internalID: -8577924269181460392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 670
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f9df4770935af0800000000000000
+      internalID: -408824299045391674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 668
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c9bb95bb4b2610800000000000000
+      internalID: 1597453736206780331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 637
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222043ae08fc1d10800000000000000
+      internalID: 2097824268199928354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 638
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee41e12ff23fa600800000000000000
+      internalID: 481659756518395629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 689
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5099f0cd5c99ec0800000000000000
+      internalID: -3559596481514502722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 689
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b329c51c077d140800000000000000
+      internalID: 4744384708242193193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 702
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cdf1a4d170700a0800000000000000
+      internalID: -6915550880425059185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 700
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781aaf5ccd76e930800000000000000
+      internalID: 4172160421537126519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 525
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa0af5486e3ca00800000000000000
+      internalID: 775717017052293711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 508
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4089f01ef8635e90800000000000000
+      internalID: -7038166352234184625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 524
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc296f7a4c476a0800000000000000
+      internalID: -6452316140439679230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 541
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e995dd25917f30800000000000000
+      internalID: 4571599120847464554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 539
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee16c79b5d86650800000000000000
+      internalID: 6226461477472169689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 540
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e9c4ba042d4900800000000000000
+      internalID: 670231547949474940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 540
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299d1c428ff98a490800000000000000
+      internalID: -7734756471891437166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 669
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408baac57ae6a5aa0800000000000000
+      internalID: -6171498674264557564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 508
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21ed0d544092340800000000000000
+      internalID: 4839403972489777907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 476
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ec00dbe3921480800000000000000
+      internalID: -8929912470105168217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 509
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e4e722e468e0730800000000000000
+      internalID: 3967255991904259680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 540
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13763553a71679450800000000000000
+      internalID: 6095447798177818417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390704f530164f70800000000000000
+      internalID: 9171035515100006707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 523
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2d9d6d61091ba0800000000000000
+      internalID: -6117857049304028183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 509
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c6dfa094cba01f0800000000000000
+      internalID: -1077842138898797437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 509
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477bc3436bb077f30800000000000000
+      internalID: 4573136823806375796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 428
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b463c85f0f9f5f0800000000000000
+      internalID: -722281327806231765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 429
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8aa8483197c6ea0800000000000000
+      internalID: -5878190288890320689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 721
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b185f00f5ad760800000000000000
+      internalID: 7483398188553057378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 720
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d88e5a11527900800000000000000
+      internalID: 680695667383390272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 721
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e0fe0959328990800000000000000
+      internalID: -7385277384268650214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 719
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e916be1f2ed030800000000000000
+      internalID: 3521303767600981164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 717
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7a7b206e0805c00800000000000000
+      internalID: 887350851968411577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 718
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1807504def7ce0bc0800000000000000
+      internalID: -3814891937043484543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 717
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da3a237ad41f5cb0800000000000000
+      internalID: -4873153343324013863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04cb54910680740800000000000000
+      internalID: 5118446638166982820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 433
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23946543704fdf4f0800000000000000
+      internalID: -793209647567320782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 433
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc15d6f90f54f610800000000000000
+      internalID: 1654051459552320717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 433
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2de6012445673f0800000000000000
+      internalID: -903442032520932680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 433
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc0f65d30859cea0800000000000000
+      internalID: -5852049467302277947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 432
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a90c89d82108630800000000000000
+      internalID: 3927159274429520436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 432
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7d753e9ea9b7060800000000000000
+      internalID: 6952320779108734927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 702
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec04056d56bb900800000000000000
+      internalID: 701266138130075322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 702
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d5710f83b441810800000000000000
+      internalID: 1735094464362798433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 702
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e517a5cb33770dc0800000000000000
+      internalID: -3672840270541023768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 702
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738771325dbfc4a80800000000000000
+      internalID: -8481127105410140105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 702
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f883cfcc1a8c60800000000000000
+      internalID: 7821095381546629414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 702
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649f7bef1fb19130800000000000000
+      internalID: 3571846123297412199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 704
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a357dee10311e4f0800000000000000
+      internalID: -801338359672253534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef141ebff10f8710800000000000000
+      internalID: 1697577782459244516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 510
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef8c73528e1b160800000000000000
+      internalID: 7039662939104149054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 511
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d621fdada4e740800000000000000
+      internalID: 5180456433969715513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 510
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95a399acb1b34b90800000000000000
+      internalID: -7258762750534113893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6bb8797450a690800000000000000
+      internalID: -7592976091053331439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 510
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b96cac3dce9cd0800000000000000
+      internalID: -2549374678570782026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 510
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad4f5d886db4400800000000000000
+      internalID: 309576882598500944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 514
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88457e54e26945ae0800000000000000
+      internalID: -1561458045305269112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 514
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a803cb08a938fe80800000000000000
+      internalID: -8144696532184921951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 513
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f050be77acd26020800000000000000
+      internalID: 2333670168874471669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 512
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4399a08b432d5a340800000000000000
+      internalID: 4874533295566264628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 514
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf1d566afbfe95b0800000000000000
+      internalID: -5359569453646536778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 514
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b28b6ec3e423ad90800000000000000
+      internalID: -7087780827711700302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 512
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d80e6e99c74920800000000000000
+      internalID: 2974567761189590504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 512
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c81f6302444ce30800000000000000
+      internalID: 4522814830938262670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 509
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620088b7959433b0800000000000000
+      internalID: -5533633563263499670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942469830b4c51e0800000000000000
+      internalID: -2207807238756359010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b5982a047c69e0800000000000000
+      internalID: -1626797778408196051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 463
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed8f5c74ca504c0800000000000000
+      internalID: -4321858843128045974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8a32ab9d878da0800000000000000
+      internalID: -5942625483710885959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 463
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0ae320632b7b30800000000000000
+      internalID: 4286058366199532228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 463
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a67b0f344efd4f0800000000000000
+      internalID: -801671228196165030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104793de842a4530800000000000000
+      internalID: 3839921828140630033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 463
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f126238a5a277bd90800000000000000
+      internalID: -7082065833199771105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 463
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d74dc9b78913a0800000000000000
+      internalID: -6694170139026794715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 463
+        width: 10
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43de877b777afd0800000000000000
+      internalID: -2330762652249410371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9183f826d5e5460800000000000000
+      internalID: 7232320729494591980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 463
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a2baae3c269c7a0800000000000000
+      internalID: -6356440805461513618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 463
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f9e93ac32e27db0800000000000000
+      internalID: -4795521903125160077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 432
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d13e1d5184cdf50800000000000000
+      internalID: 6907475187032333615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01775e788f1d90f0800000000000000
+      internalID: -1108695262167600884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 436
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4bfef3cc85a9910800000000000000
+      internalID: 1844884631630886096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 435
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc10245faa65b2b0800000000000000
+      internalID: -5569428062910538504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 433
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc5a9e036e59d00800000000000000
+      internalID: 978941591775727578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 430
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0be840944d9dbc0800000000000000
+      internalID: -3757739003989806942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 430
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadc48f015ddb0be0800000000000000
+      internalID: -1509869909830218324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 689
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29e8c7aeb011ff10800000000000000
+      internalID: 2301639295607826735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 690
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa153ab74cd8d250800000000000000
+      internalID: 5969763506704423588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 229
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb1bb88bd3b5fb0800000000000000
+      internalID: -4658061526757687544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 256
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2613a29b71a504a60800000000000000
+      internalID: 7656218424467140962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watabou pixel dungeon spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 444
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02812c31a4a84cf90800000000000000
+      internalID: -6934265475480020960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
